@@ -1,0 +1,25 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+:
+
+# Homelessness Categories
+
+Category 1 – Literally homeless individuals/families.
+
+Category 2 – Individuals/families who will imminently lose their primary nighttime residence with no subsequent residence, resources, or support networks.
+
+Category 3 – Unaccompanied youth or families with children/youth who meet the homeless definition under another federal statute.
+
+Category 4 – Individuals/families fleeing or attempting to flee domestic violence.
+
+# Homeless Management Information System (HMIS)
+
+A local information technology system used to collect data on the provision of housing and services to homeless individuals and families.
+
+# Housing and Urban Development (HUD)
+
+The United States Department of Housing and Urban Development.
+
+# Literally Homeless
+
+Category 1 of HUD’s definition of homelessness. Literally homeless means an individual or family who lacks a fixed, regular, and adequate nighttime residence, meaning the individual or family has a primary nighttime residence that is a public or private place not meant for human habitation, the individual or family is living in a publicly or privately operated shelter designated to provide temporary living arrangements (including hotels and motels paid for by charitable organizations or federal, state, or local government programs), or the individual is exiting an institution where s(he) has resided for

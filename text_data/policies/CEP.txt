@@ -1,0 +1,1002 @@
+
+
+
+
+
+
+
+
+
+
+LifeMoves 
+Client Engagement Philosophy 
+January 2024
+
+
+
+PREFACE
+The purpose of the Client Engagement Philosophy (CEP) document is to articulate LifeMoves' methodology in engaging with our client community, spotlight significant program milestones, and delineate the operational mechanisms that underpin the delivery of services. These operational levers play a pivotal role in maximizing consistency across our programs. This document takes implicit knowledge of practices and turns them into an explicit & visual model that can be refined, verified, and repeated.
+
+
+
+RECORD OF REVISION 
+Date	Editor/Author	Notes	Notion Updated?
+December 2023	Anneliese Gretsch Martinez	Initial draft	---
+ January 2024	Andrew Niklaus	Edits/suggestions	---
+ March 2024	Anneliese Gretsch Martinez	Edits	---
+ March 2024	Andrew Niklaus	Edits/suggestions	---
+ April 2024	B-Team	Edits/suggestions	---
+ June 2024	Anneliese Gretsch Martinez	Move from shared doc to word, light edits, and put on notion	June 2024
+			
+			
+			
+			
+
+
+
+TABLE OF CONTENTS
+PREFACE	2
+RECORD OF REVISION	3
+TABLE OF CONTENTS	4
+LifeMoves Introduction	6
+Vision	6
+Mission	6
+Brief Organizational History	6
+LifeMoves Leadership	6
+Program Model Philosophy	7
+Program Model Pathways	8
+Outreach Pathway	8
+Interim Supportive Housing Pathway	8
+Community Housing Pathway	9
+Program Model Phases	10
+Entry Phase	10
+Foundations Phase	10
+Empowerment Phase	12
+Transition Phase	12
+Program Model Pillars	14
+Housing Moves	14
+Financial Moves	14
+Behavioral Health Moves	15
+Physical Health Moves	15
+Legal Moves	15
+Program Model Quick View	17
+Program Index	18
+Outreach Pathway	18
+Interim Supportive Housing Pathway	19
+Community Housing Pathway	20
+Wrap Around Services: Supportive Services	20
+Approach to Impact	21
+Impact	21
+Performance Management	22
+Data Utilization	23
+Outcomes	24
+Dashboards	26
+Logic Models	28
+Outreach Pathway Logic Model	28
+Interim Supportive Housing Logic Model	29
+Community Housing Logic Model	30
+Program Staffing	31
+Programs Leadership and Impact & Learning	31
+Interim Supportive Housing- County Breakdown	32
+Staffing Categories and Roles	33
+Typical Staffing Patterns	33
+Team Coordination Philosophy	34
+Program Training	36
+Training Philosophy	36
+Orientation Training	36
+Ongoing Training	36
+Program Safety	38
+Safety Philosophy	38
+Health Management	38
+Crisis Management	38
+Reporting of Incidents	39
+Safety Policies	39
+Program Administration	42
+Program Principles	42
+Community Guidelines	51
+Community Resources	59
+Glossary of Terms	63
+
+
+
+LifeMoves Introduction
+Vision
+We envision thriving communities where every neighbor has a home.
+Mission
+End homelessness by providing interim housing, support services, and building collaborative partnerships.
+Brief Organizational History
+In the spring of 2012, Shelter Network and InnVision The Way Home merged their organizations to better serve the community on the peninsula, optimizing resource sharing and knowledge exchange. In San Mateo County, Shelter Network operated multiple shelters and housing units and was well known for working with families. While in Santa Clara County, InnVision The Way Home operated two adult shelters, two women’s shelters, and a drop-in center and was well known for working with individuals, especially those diagnosed with behavioral health barriers. In 2016, the merged organization underwent a rebranding and adopted the name LifeMoves, which not only streamlined its identity but also underscored its core mission of facilitating the transition of individuals and families out of homelessness.
+Today, LifeMoves is the largest provider of interim housing and support services for people experiencing homelessness in San Mateo and Santa Clara Counties. With twenty-six service sites from Daly City to San José, LifeMoves provides unhoused people a temporary place to call home while providing intensive, customized case management through both site-based programs and community outreach. The organization has seen robust growth in the last few years, growing from $23.8M in FY2018 to $60.1M in FY2021. The opening of the 100-unit Project Homekey interim housing community in Mountain View in May 2021 and the 240-unit interim housing community in Redwood City in April 2023 are a testament to recent momentum. 
+LifeMoves Leadership
+CEO (Chief Executive Officer) Cabinet
+
+
+
+*Positions are fluid and change throughout the year, while this is updated yearly. Last updated 8/1/24.
+https://www.canva.com/design/DAGMpLvoGro/TYn4cztls6mGMZ5ZLtGPZw/edit
+
+
+Program Model Philosophy
+LifeMoves provides client-centered, trauma-informed, strengths focused, and culturally responsive services to neighbors experiencing or facing homelessness. We prioritize the safety and well being of clients and staff, while aiming to create open & transparent settings that aid in client progress. Data and feedback are foundational to our program model. We take a multi-disciplinary approach to our work, collaborating internally and with external partners to target each client’s unique goals and needs. Consistency is key and relentless engagement ensures we meet clients on their terms. Program staff emphasize dignity and respect to empower our clients, ensuring that each person we serve is recognized, valued, and supported on their journey toward stability and independence.
+Lenses we practice
+Client-Centered: LifeMoves prioritizes the needs and experiences of our clients; ensuring that interventions are tailored to meet the unique circumstances of each person and family.
+Trauma-Informed Care: LifeMoves staff are trained to understand the impact of trauma and to provide care and support in a sensitive and empathetic manner.
+Strengths-Focused: LifeMoves empowers clients by emphasizing the strengths and assets of each person and building on those strengths throughout the program.
+Cultural Responsiveness: LifeMoves acknowledges the diverse backgrounds and identities of our clients by recognizing and respecting the cultural values, beliefs, and practices of the individuals and communities we serve. We are committed to equity by creating an environment where everyone has the opportunity to thrive.
+Approaches we reinforce
+Emphasis on Dignity and Respect: LifeMoves prioritizes treating clients with dignity and respect to build a sense of empowerment. Each client should feel valued and supported on their journey towards stability and independence. 
+Relentless Engagement: LifeMoves believes consistency is key to client progress. The way we embody this ranges from routine check-ins with clients to consistently being ready to support a client when they come to us and meeting them on their terms. Engagement should be flexible and voluntary.
+Multi-Disciplinary Collaboration: LifeMoves leverages professionals across multiple fields and organizations, collaborating to support clients in their various needs and goals. 
+Cultures we foster
+Safety: LifeMoves believes every person deserves to be in a safe environment; it is every staff and client’s responsibility to maintain a dignified, clean, welcoming, and safe space.
+Data-Driven: LifeMoves places strong emphasis on gathering information about clients and their circumstances, documenting engagement with clients and the results of that engagement and soliciting feedback directly from clients. By collecting and analyzing this data, the organization tracks its performance, identifies areas for improvement, and measures its impact on the community. This allows the agency to make informed decisions, understand the current capacity, and strategically plan for the future. 
+Open & Transparent: LifeMoves strives to be open and transparent in all aspects of our work both internally within Programs, externally to partners, and most importantly to our clientele. 
+
+
+Program Model Pathways
+LifeMoves has three pathways that are designed to meet clients wherever they are on their journey toward greater stability: Outreach, Interim Supportive Housing, and Community Housing. All programs utilize trained staff, interagency knowledge and operational tools to provide the best possible support. Additionally, all programs advise clients on options, provide resources, refer to services, and advocate for clients with community partners. All three Pathways provide levels of case management and service delivery that match the goals of the pathway, and the client's needs.  
+As part of our program model, LifeMoves provides targeted supportive services that support clients in meeting their goals. These overlap with what is provided in the three program pathways. Our Behavioral Health (BH) services include individual and family therapy and neuropsychological assessments. Clients may also engage in wellness or skill-building groups and milieu therapy, which provides a less formal and structured option for clients who may be hesitant to engage in more traditional offerings. The Education and Specialized Services team provides content and support around children’s services, including engagement with schools and on premises learning like summer camp. Other Specialists on the team provide subject matter expertise in the areas of Housing, Employment, and Benefits to support clients in reaching goals in those areas.
+Outreach Pathway
+The Outreach teams work on the streets and in encampments to serve unsheltered neighbors in becoming more stable and providing for their unmet needs. Services may include but are not limited to food, basic needs, case management, and transportation. Staff proactively seek out clients in the community and often focus more on needs-based tasks to support with general stability. Additionally, staff advocate, educate, and build understanding directly with businesses and organizations in the community to provide more trauma informed services. Case management is need- and client-driven and may encompass a single touchpoint up to multiple/ongoing touchpoints. LifeMoves programs in this category include Medical Outreach, Street Outreach, and Drop-In Outreach. 
+Interim Supportive Housing Pathway 
+The Interim pathway serves neighbors in time-based accommodations, providing more stability for their unmet needs before they move to permanent housing. Services may include but are not limited to accommodations, meals, laundry, case management, and therapy. Staff provide a safe and supportive environment that fosters goal progress and completion in a communal setting. Case management is need- and goal-driven and may include daily staff check-ins and a structured meeting for at least 30 minutes each week. LifeMoves programs in this category include Interim Supportive Housing, Transitional Supportive Housing, and Transitory Housing. 
+Community Housing Pathway
+The Community Housing teams serve neighbors in housing with additional support to maintain their placement. Services may include but are not limited to housing, housing financial assistance, case management, and advocacy with tenant rights. Staff provide engagement as needed to sustain stable housing. Case management is need- and housing type-driven and may range from multiple touchpoints per month to once or twice a month. LifeMoves programs in this category include Rental Assistance, Rapid-Rehousing, Permanent Supportive Housing, and Below Market Rate Housing. 
+
+
+Program Model Phases
+
+Entry Phase
+Clients enter into LifeMoves Pathways following processes specific to contracts and/or geographical regions. Programs staff must be familiar with their team’s specific process for receiving referrals or entering clients into the program. Active collaboration with partner organizations is critical to ensure supporting client's transition. Additionally, staff engage in an open conversation to establish what a client wants and needs, helping to determine if the program is the correct fit. Informing clients about program eligibility is crucial for ensuring fair, transparent, and effective service delivery. It allows clients to make informed decisions, helps LifeMoves allocate resources wisely, and contributes to the overall success and impact of the services. Additionally, understanding eligibility helps manage client expectations and fosters trust in the staff.
+San Mateo County: Coordinated Entry to Homeless Services (CES)
+Programs associated with the Federal Housing and Urban Development (HUD) fall under Coordinated Entry Systems (CES). CES is a system in which homeless individuals and families are prioritized and matched to emergency interim housing placement, housing vouchers and other benefits regarding subsidized housing that they may be eligible for.  
+https://www.smcgov.org/hsa/core-service-agencies-emergency-safety-net-assistance
+Santa Clara County: Coordinated Entry System
+LifeMoves accepts referrals directly from the SCC Here4You Hotline. The Here4You call center hotline is run by the Bill Wilson Center and is designed to centralize referrals for clients needing shelter in Santa Clara County. https://osh.sccgov.org/continuum-care/coordinated-entry
+City of San José
+LifeMoves works with the specific geographic area in which the program is operating, the City of San José, and other authorized stakeholders to authorize and prioritize services and admissions.
+Foundations Phase
+The Foundations Phase is a client-centered, strengths-focused process of welcoming a client into the program. Additionally, it is important to meet the client where they are during this time and if a client has any basic needs this is the first thing to address. In the Foundations Phase, clients need a warm welcome, to build trust in staff, absorb information about the program, to de-stress and take a breath, and assess what they need to move forward.  This early phase is key in building rapport and starting to motivate clients around working towards goals. During the Foundations Phase, clients and staff enter into an agreement about services provided and the collaborative process. The information collected during these touchpoints provides data for LifeMoves to better understand the clients we serve and shape the individual plan we tailor with each client. The safety and wellbeing of all program participants, including clients, staff, and other partners, is of utmost priority to LifeMoves and the Foundations Phase is crucial for ensuring this. A welcoming, celebratory, and engaging experience helps clients feel comfortable and eases uncertainty, laying the foundation for consistency and predictability.
+Welcome 
+The intended purpose of the first meeting in the Foundations Phase is to create a warm and welcoming transition for clients entering the program, communicate program guidelines and expectations, and gather necessary client documentation. It is a time to familiarize clients with guidelines and rules and provide a space to ask questions. It may include filling out paperwork and gathering information about the client, including assessing appropriateness for the program. In Interim Supportive Housing, an intake must occur before the person can spend the night in the facility. This informational time helps staff establish a relationship with clients and provides a space for open communication at the very beginning of the program.
+Decompression Period
+Decompression time is key to a client's journey to stability and is dependent on the client’s need. Many clients in Interim Supportive Housing and Community Housing Pathways, may come from stressful or traumatic situations and this time allows them to transition from challenging environments mentally and emotionally to the more stable and supportive atmosphere of our programs. Some decompression time during the Foundations Phase also allows clients to have autonomy over their own time and emotional well-being, rather than immediately imposing structured activities upon them. Staff have found this period helps clients collect themselves, enabling them to focus on, participate in, and benefit from resources available in programs. 
+Assessment 
+The assessment follows the decompression period within the Foundations Phase and involves gathering information about a client’s history and current status. It has many uses including establishing a relationship and open communication with a client at the beginning of the program, gathering information needed to guide the case plan, and evaluating our program to improve efficacy. Staff utilize a combination of communication, collaboration, and observation to assess clients. An assessment is not limited to formal assessments and can include any process that leads staff to learn more about clients. 
+There are two formal assessments LifeMoves utilizes. The VI-SPDAT is an assessment for households who are literally homeless only, including those who have entered an emergency shelter (including a hotel/motel paid for by a public or private organization), or are living in a location not meant for human habitation. In San Mateo County, the Coordinated Entry System (CES) complete all clients VI-SPDAT prior to entrance and during program if there is a major life change and/or after a certain period of time. In Santa Clara County, LifeMoves staff complete client VI-SPDATs during program if there is a major life change and/or after a certain period of time. The second formal assessment is the LifeMoves Assessment, which lives in the internal client management system (Voyager) and is completed with the clients by Case Managers. Additionally, informal assessments are completed through staff observations and documentation of clients desired outcomes, challenges, and strengths. Staff are continuously assessing, not just at the beginning of the client’s time in the program but throughout their stay. 
+All the information collected is then used to build and refine a roadmap for staff and clients to know where they are going, how they will get there, and what collaborations will support the path towards securing permanent housing. The case plan is created within the first week to 10 days of a client entering a program and is documented inside one of the client management systems. A case plan is more than a set of goals; it is how staff learn about clients and proactively support them while in the program. Goal setting is a collaborative process to create realistic and attainable goals while the client is in the program. The goals and tasks created for a case plan are based on the needs identified through the assessment and the desired outcome, obstacles, and strengths gathered during the early meetings between Case Managers and their clients. They align within the five Pillars of housing, financial, physical health, behavioral health, and legal support. Goals and tasks can be short-term or long-term, often build upon each other, and it is important that they remain flexible throughout the duration of the program to adapt as goals are accomplished or as the client's situation changes. 
+Empowerment Phase
+The Empowerment Phase is when most of the work with clients proceeds as the five Pillars are activated (more information provided in the next section). This is also the time when supportive services are plugged into the case plan and external partners are utilized as well. Staff support, in both formal meetings and informal check-ins, is key to setting clients up for success. Types of support include weekly case management meetings, workshops, community-building events, check-ins over meals, medication support (where applicable) and interactions during entrance and exit. Daily interactions can often support clients in their progress and each position plays a key role. Milieu support is just as vital as scheduled meetings as it often cultivates a supportive atmosphere, encourages social interaction, and facilitates the development of trusting relationships among clients, promoting a sense of consistency and stability. 
+When working with clients towards their goals, staff consider and identify what resources and support systems clients will need to succeed. Additionally, staff utilize best practices including motivational interviewing and engagement strategies such as praise, validation, strengths focused language, reflective listening and open-ended questions to support clients in making progress towards their goals. As a client moves through a program, it is the Case Manager who coordinates staff efforts, acts as a resource broker, and assigns tasks to help clients set and achieve goals outlined in the case plan. Along with maintaining safety for clients, all staff are responsible for supporting case plan goals, which means sharing observations about clients, and effectively using the client management system to track and monitor the needs and progress of clients. 
+
+Transition Phase
+Transitioning a client is an important step in their journey toward stability, as it empowers clients to make decisions about their future and fosters a sense of self-efficiency and confidence. Clear communication about aspects of the transition, including how, when, and why they would occur are essential for a successful relationship between staff and clients. LifeMoves staff work to ensure every client has stable and secure housing that is suitable for their needs. When considering placement, staff work with the client to build support systems in their geographical area, ensure the client has access to healthcare and other resources, and identify ways to foster a sense of belonging and integration into the community. 
+LifeMoves understands that our clients with multiple diagnoses (such as addictive disorders, serious mental illness, and chronic medical conditions) are prone to life crises, but LifeMoves has a “no-fail” policy for every client. Staff make every attempt to retain and not discharge clients for exhibiting the behaviors that may have caused them to become unhoused in the first place. Clients are not involuntarily discharged except for serious incidents of violence or creating an unsafe situation for other clients and staff.
+
+All LifeMoves staff are trained in de-escalating crises, and maximum efforts are undertaken to work with and succeed with each client. Our Case Managers are trained to work with clients with significant barriers to housing, such as substance use disorder, mental illness, criminal justice involvement, and other concerns. LifeMoves helps clients through a challenging period in their life to create lasting change and long-term stability.
+Program transitions are documented and analyzed for program learnings and improvement. When a client is closed out in our client management systems, staff document closing out of the case plan, by designating each goal and task as either complete or incomplete and completing an exit case note, documenting the details of the client’s exit. Another important task when closing out a case is updating the contact information and exit type of each client to allow future contact and program analysis of exit types of clients. 
+One element of Transition Phase is a client’s length of stay.  In Interim Supporting Housing, length of stay aligns with the approach of encouraging clients to actively pursue more stable housing. The LifeMoves model for length of stay is for it to be dependent on the housing plan of the individual; recognizing that individual clients have unique circumstances and complex challenges that may require longer time and more support. However, it is important that the length of stay not exceed an amount of time that would make the client ineligible for government services and resources that are designated for homeless populations (usually two years).
+
+
+
+Program Model Pillars
+
+All three LifeMoves Pathways (Outreach, Interim Supportive Housing, Community Housing) provide clients with resources and services aligned as five Pillars of support. Individual client needs determine how these Pillars are activated within the parameters of each Pathway. LifeMoves core programming is a comprehensive set of services aimed at addressing key objectives within one unified program model. Clients enter one of three Pathways and receive support through four Phases and services in the third phase that enable a reasonable amount of the five Pillars to be delivered. The level of case management is defined by the Pathway goals and resources and driven by the client needs within each Pillar. The Pathways, Phases, and Pillars serve as a foundational framework that ensures essential services and interventions necessary for achieving program goals. Additionally, Specialized Services staff play a key role in the Housing, Financial, and Behavioral Pillars.
+Housing Moves
+Foundational to the LifeMoves mission is to support our clients on their journey to independence and a home to call their own.  Thriving communities where every neighbor has a home is the ultimate goal of LifeMoves.  Our dedicated staff work tirelessly to make this goal a reality for our clients.  Specialists and Case Managers work with clients to explore both traditional and innovative options to help clients make decisions about finding long-term housing.  Our teams review housing costs in the Bay Area, other parts of California, and other states, and discuss the possibility of reconciliation with family or friends and shared housing options.  Additionally, Specialists often work with community organizations, cities, counties, private property owners, and others to secure living arrangements, negotiate deposits and rent, and organize move-in support.  In addition to guidance from Case Managers and Specialists, clients receive assistance with: specialized housing, eligibility assessments, education on responsibilities and rights as tenants, finding affordable housing, connecting to housing benefits and financial assistance, reaching out to landlords, and submitting rental applications. 
+Financial Moves
+COVID-19 changed the way many of us work in Silicon Valley, and while wages have been increasing in some sectors, many of our clients continue to work in jobs that simply do not pay a living wage for the Bay Area. To address this barrier, LifeMoves Employment Specialists focus on helping our adult clients increase their employment opportunities and earning potential through employment skills training, resume development, job searching training, and interview coaching. This work supports our clients who are unemployed and underemployed, so they are better prepared to transition back to stable housing with reliable employment. Additionally, the LifeMoves employment team provides specialized training programs and partners with multiple organzations for additional opportunities. LifeMoves offers our clients a deeper level of financial training to better prepare them for success in the future. Focused on the goal of long-term stability, we provide workshops, as well as individual coaching, on topics such as budgeting, building, and repairing credit, savings strategies, and techniques for borrowing money wisely. When clients leave LifeMoves on sound financial footing, these individuals and families have more of the tools they need to thrive and contribute to our community.
+Behavioral Health Moves
+Trauma and other behavioral health issues can be a cause and effect of becoming homeless. The experience of homelessness is incredibly stressful, and many of our clients have experienced intermittent or chronic trauma over their lives. To address these issues, LifeMoves provides free, on-site and virtual behavioral health services designed to address the trauma and other behavioral health challenges common among individuals and families experiencing homelessness. Services include = individual, family, and milieu therapy for adults and children, as well as wellness-focused groups LifeMoves also offers neuropsychological assessments, which are difficult to obtain in the greater community and can enable our clients to access further support for a variety of issues. Additionally, some of our programs partner with external agencies to provide onsite substance use treatment services. At times, connecting to external behavioral health services may be appropriate for LifeMoves clients for a variety of reasons. In these situations, a client’s case manager will support them in getting connected. 
+Physical Health Moves
+Healthy adults are more likely to be able to maintain a job and remain housed than adults in poor health or with chronic medical conditions. Additionally, adults who can perform their activities of daily living (ADLs) or have the necessary support to perform these tasks are more likely to remain housed. Many LifeMoves clients are at higher risk for medical complications than the general public; some are elderly, with chronic conditions that have been untreated; others are veterans with medical vulnerabilities. Our Case Managers assist clients with finding and enrolling in available insurance coverages, and for clients needing medical services or support, LifeMoves works in partnerships with local public health programs and community partners to get our clients the care they need. For many clients, addressing chronic or underlying health conditions is often a necessary first step on their journey of returning to stable housing.
+Legal Moves
+Legal matters can often affect the ease of finding and maintaining a place to live as well as where someone may be able to live. Case Managers connect clients to legal aid and pro bono services for specialized support. Additionally, staff provide resources and support in legal matters including health care, housing, benefits, domestic violence, immigration, and elderly or child abuse. LifeMoves also supports clients who have been in state prisons, providing services for education, employment, and housing. Some clients benefit from referrals to court programs that can reduce traffic fines, expunge some criminal backgrounds, and address misdemeanor convictions which reduces barriers to employment and housing. LifeMoves Case Managers collaborate with external partners to provide support to clients experiencing domestic violence, providing legal advocacy, and assistance with restraining orders. Additionally, staff support our undocumented clients with a range of services, including getting access to programs, and partnering with local organizations for housing, medical services, and education.
+
+
+Program Model Quick View
+
+
+
+
+
+
+Location of Image: https://www.canva.com/design/DAGDXOcisyk/VfM-VyWcNlwP1J3cEGAAEQ/edit
+3 Pathways		Outreach Pathway
+- Serves unsheltered neighbors on streets and encampments in becoming more stable and providing for unmet needs
+- Services may include but are not limited to food, basic needs, case management, and transportation
+Interim Supportive Housing Pathway
+- Serves neighbors in time-based accommodations, provides more stability before move to permanent housing
+- Services may include but are not limited to accommodations, meals, laundry, case management, and therapy.
+Community Housing Pathway
+- Serves neighbors in housing with additional support to maintain their placement.
+- Services may include but are not limited to housing, financial assistance, and advocacy with tenant rights
+3
+Phases		Foundations Phase
+- Welcome and goals, decompression time, assessment
+Empowerment Phase
+- Program pillars, case management, supportive services, referrals and connections
+Transition Phase
+- Next steps, re-connection to systems, warm hand off
+3
+Pillars		Housing Moves
+- Goals may include: securing shelter, securing permanent housing
+- Tasks may include: reconciliation with family, negotiating deposits, organizing move-in support, connecting to financial assistance, and submitting rental applications
+Financial Moves
+- Goals may include: increasing income, decreasing debt
+- Tasks may include: financial workshops, budgeting, building/repairing credit, increasing education or achieving certificates
+Physical Health & Well Being
+- Goals may include: increasing support for behavioral health, increasing support for physical health
+- Tasks may include: neuropsychological assessments, individual, family, and milieu therapy, AA meetings, incentives for drug treatment participation, finding and enrolling in available insurance coverages, supporting with medication management
+
+Program Index
+**Unit may be any of the following measures – 1 bed in a shared space, 1 individual room with bathroom, 1 individual room without bathroom, 1 apartment style space (with individual bathroom and kitchen), 1 vehicle that is inhabited 
+
+Outreach Pathway 
+Outreach Pathway
+Medical Outreach	Street Outreach	Drop-In Outreach & Waitlists
+ Health Care for the Homeless (HCH)	 Homeless Outreach Team (HOT)	 Opportunity Services Center (OSC)
+ Kaiser	 Palo Alto Outreach	 Motel Voucher Program (MVP SMC)
+	 Redwood City Strategic Outreach (RWCSO)	
+		
+Medical Outreach
+HCH 		Health Care for the Homeless (HCH): locates and connects clients with healthcare 			services in San Mateo County
+Kaiser 		Kaiser: supports unhoused individuals in the Kaiser healthcare system to increase 			stability around the Five Pillars
+
+Street Outreach
+HOT 		Homeless Outreach Team (HOT): works with unsheltered individuals throughout			San Mateo County
+No Link		Palo Alto Outreach Team: works with unsheltered individuals and community members 			in Palo Alto
+RWCSO 	Redwood City Homeless Outreach Strategy: focused on partnerships to provide 			resources and connections to unsheltered in Redwood City in San Mateo County
+
+Drop-in Outreach & Waitlists
+OSC 		Opportunity Services Center: drop-in center focused on connecting clients to resources 			in Santa Clara County
+No Link		Motel Voucher Program (MVP SMC): families in San Mateo County stay in a hotel while 			they wait for a bed at an Interim Housing Program
+
+
+
+Interim Supportive Housing Pathway
+Interim Supportive Housing Pathway
+Interim Supportive Housing (ISH) 
+SCC City Contracts	Interim Supportive Housing (ISH) 
+Santa Clara County	Interim Supportive Housing (ISH) 
+San Mateo County
+Guadalupe (Guad)	  Georgia Travis House (GTH)	  Family Crossroads (FC)
+Hotel De Zink (HdZ)	  Julian Street Inn (JSI)	  First Step for Families (FSF)
+Motel Voucher Program (MVP SCC)	  Montgomery Street Inn (MSI)	  Haven Family House (HFH)
+Mountain View Homekey (MTV)	  New Haven Inn (NHI)	  Redwood Family House (RFH)
+RV Supportive Parking (STSP)	  Villa	  Navigation Center (Nav)
+
+Interim Supportive Housing (ISH) – SCC City Contracts
+GUAD		Guadalupe EIH (GUAD): 96 individual units
+HdZ 		Hotel De Zink (HdZ): 20 individual units
+MVP SCC 	Motel Voucher Program (MVP SCC): 97 family units in two locations  
+MTV 		Mountain View Homekey (MTV): 12 family units, 8 couple units, 80 individual units
+STSP 		RV Supportive Parking (STSP): 42 RV spaces
+
+Interim Supportive Housing (ISH) - Santa Clara County
+GTH		Georgia Travis House (GTH): 12 family units and 17 individual units for females 
+JSI 		Julian Street Inn (JSI): 85 individual units
+MSI 		Montgomery Street Inn (MSI): 90 individual units for males
+NHI 		New Haven Inn (NHI): 20 individual units for LGBTQ identifying populations
+Villa 		Villa: 17 family units and 9 individual units for females  
+
+Interim Supportive Housing (ISH) - San Mateo County
+FC 		Family Crossroads (FC): 15 family units
+FSF 		First Step for Families (FSF): 39 family units
+HFH 		Haven Family House (HFH): 23 family units
+RFH 		Redwood Family House (RFH): 10 family units
+Nav 		Navigation Center (Nav): 24 couple units and 216 individual units
+
+
+
+Community Housing Pathway
+Community Housing Pathway
+Rental & Client Assistance	Transitional Housing (THU) & Transitory Housing	Permanent Supportive Housing (PSH)	Below Market Rate Housing (BMR)
+ Board of State and Community   
+ Corrections (BSCC)	 Alexander House (Alex)	 Vendome	 Hester
+ Emergency Assistance Network (EAN)			 TriPlex
+ Rapid Re-Housing SMC (RRH SMC)	 Hoptel		
+ Rapid Re-Housing SCC (RRH SCC)			
+
+Rental & Client Assistance
+BSCC		Board of State and Community Corrections (BSCC): provides client assistance and 		subsidized rent to clients who have been incarcerated in a California prison    
+EAN		Emergency Assistance Network (EAN): provides funding to housed individuals or 		families in two zip codes in Santa Clara County  
+RRH SMC	Rapid Re-Housing SMC: provides funding to subsidize rent in San Mateo County
+RRH SCC	Rapid Re-Housing SCC: provides funding to subsidize rent in Santa Clara County
+
+Transitional Supportive Housing (TSH/THU) & Transitory Accommodation (TA)
+Alex 		Alexander House: 5 individual units for females in Santa Clara County
+Grad 		Graduate House: 5 individual units in Santa Clara County
+Hoptel 		Hoptel: 6 adult units for veterans in San Mateo County
+
+Permanent Supportive Housing (PSH)
+Vendome	Vendome: 16 adult units in San Mateo County
+
+Below Market Rate Housing (BMR)
+Hester 		Hester Gardens: 14 family units in Santa Clara County
+TriPlex 		TriPlex: 3 family units in Santa Clara County
+
+
+Wrap Around Services: Supportive Services 
+BHS 		Behavioral Health Services: provides individual, family, and milieu therapy; 
+neuropsychological testing, and wellness-focused groups to clients across numerous 	programs
+ESS 		Education & Specialized Services: provides resources and support to Children’s Services 		coordinators and Housing, Employment, and Benefits Specialists working with clients  		across numerous programs
+
+Approach to Impact
+Impact
+LifeMoves defines impact as the ability to support positive change in collaboration with our clients and deliver on our mission – in other words, whether we are ‘walking the walk’ in our client-facing work. Our case management services address the myriad challenges that bring people to our doorstep — which include housing, financial, physical health, behavioral health, and legal challenges — and help LifeMoves achieve community impact. In addition to providing basic needs including accommodation, food, and clothing, each of our three program pathways involve collaboration with clients to identify individualized goals and action steps to support them in increasing stability. The Five Pillars manifest themselves in client experience and are dependent on the client’s goals. The stories shared in this material are fictional and created for illustrative purposes only.
+Housing examples: 
+A single father with one child is looking for a two-bedroom apartment, and has a conversation with his Case Manager about the feasibility of this plan given his budget. After attending viewings together, they collaborate on a creative solution to turn another area in a one-bedroom into a second bedroom. This supports the need for separate spaces and an economically stable long-term housing situation. 
+Another example is two clients who meet during the program and decide to share a space. Working with a Housing Specialist, the two find a space to live in together that is more affordable jointly. 
+Financial examples: 
+A family with consistent income and a goal around budgeting attends a budgeting workshop facilitated by the Education and Supportive Services (ESS) team utilizing volunteers. The Case Manager working with this family creates a housing fund for them to make contributions to that will later go towards their deposit. 
+Another example is a single adult who attends a job training program and is supported by their Case Manager on how to navigate a debt forgiveness program, while working with a Benefits Specialist on applying for veteran benefits. 
+Behavioral Health examples: 
+A veteran suffering from PTSD sits down at a picnic table with a therapist providing milieu services. The two have a brief conversation around what the veteran did today and how he is feeling. A few days after the conversation, the veteran requests that their Case Manager submit a referral for therapy services. 
+Another example is a client participating in the Personal Empowerment Workshop provided by the ESS Department and building skills around empowerment, coping, and mindfulness.
+Physical Health examples: 
+A client who has eight different medications and vitamins they need to take sits down with a staff member to create a schedule and chart to help them organize their daily medication intake and make it more manageable. 
+Another example is a client who received discharge instructions from a hospital visit after surgery. This client utilizes our Licensed Vocational Nurse (LVN) for support in understanding and acting on the discharge instructions, possibly including wound care and diet changes.
+Legal examples: 
+An adult who has unpaid parking tickets from years before is coached by their Case Manager on how to resolve the payments and get the points taken off their license so they can become a tour bus driver. 
+Another example is a refugee family working on their legal status and needing support in understanding all the applications and documentation requirements. Their children, with support from the Children Services Coordinator, will be enrolled in school and will engage with additional school resources.
+
+Performance Management
+Performance management is central to LifeMoves achieving its mission and intended impact. It allows LifeMoves to adhere to its target audience, understand what supports and interventions correlate to outcomes, and effectively refine the program model as needed.  
+Performance management drives an organization toward explicit, clear, measurable outcomes, ensures data is used to inform decision-making, and helps build a culture of learning and accountability. Developing a culture of learning and accountability includes structuring systems and communication that allow the LifeMoves team to learn from experience, clarify what the organization is doing and achieving, and adjust personnel competencies and/or activities as indicated.
+The solution that LifeMoves provides is people-based, and so we place people at the center of our performance management structure. Staff’s efforts, dosage, and interventions should be captured in a well-designed, and highly utilitarian performance management database to help inform and improve the quality-of-service delivery and track desired outcomes. 
+There are several key aspects of performance management, which work in tight integration to help an organization implement strong organizational and staff accountability. These include:
+
+Performance Framework: A Theory of Change that outlines the level and quality of services needed to achieve key outcomes for the target audience. 
+
+High Quality Data: Data must be captured consistently, completely, accurately, and in a timely manner.  At a minimum, performance data should be tracked and monitored in these areas:
+·Target audience: To ensure that the identified participants are reached in the numbers and proportions intended.
+
+·Staff activities and program quality: To ensure that programs and services are implemented at the level of quality and codification necessary to achieve outcomes.
+
+·Outcomes: To ensure members of the target audience are progressing toward the achievement of short-term, intermediate, and long-term outcomes. 
+
+Data-Informed Decision-Making: Clear, consistent data are critical to inform key decisions about target audience, dosage, program model changes, and strategic direction.
+
+Data-Informed Accountability: It is essential that as part of an organization’s culture, all team members’ performance will be assessed using data. This means setting clear benchmarks, establishing core competencies, and reviewing staff at least annually on their performance as it relates to achieving milestones that support an organization’s mission and intended impact.
+
+Culture of Learning and Accountability: Data is not meant to catch staff making mistakes; it is meant to drive learning and highlight areas of success, growth, and opportunity. Analyzing performance data to best determine if the organization is delivering the program model with fidelity, and therefore fulfilling the organization’s mission, is critical.  
+Data Utilization
+Data Systems
+LifeMoves utilizes three client management systems. San Mateo County and Santa Clara County each have their own Homeless Management Information System (HMIS). HMIS is a local information technology system used to collect client-level data and data on the provision of housing and services to individuals and families at risk of and experiencing homelessness. Additionally, LifeMoves utilizes an internal client management system built in Salesforce, called Voyager. Staff utilize these systems to varying degrees to collect, store, and work with client data to progress clients through our programs. 
+The internal system (Voyager) is customizable, giving LifeMoves the ability to create tailored workflows, flexible assessments, and improve user experience. In addition, having a multi-disciplinary collaboration platform provides visibility into the entire client experience. Ensuring that the data systems LifeMoves utilizes are secure is of utmost importance; the system facilitates disclosure of appropriate information, at the appropriate time, to the appropriate level of staff while guarding against intrusions on client privacy. 
+LifeMoves utilizes the internal system to support clients in meeting goals, as well as for data purposes, to provide better services. For example, if analysis shows that in a specific program 95% of the clients have a substance use disorder based on assessment data, then LifeMoves can justify with data-informed evidence the need for increasing funding for substance use treatment. If a site has an employment workshop and finds out that none of the participants ended up getting jobs, they can use that data to revamp the employment workshops as well as identify and address other potential causes.
+Data Usage
+LifeMoves aims to enhance and broaden the effective use of information systems to improve the experience for everyone involved: clients, programs staff and admin teams. By implementing robust systems and ensuring their consistent use, our clients receive more individualized support to identify and manage individual needs, goals, and priorities. Our staff benefit from smoother documentation processes and improved information sharing, enabling them to utilize an aggregate lens to identify trends, correlations, and potential for change. This approach allows us to maximize value to clients through staff efficiencies, focusing attention on the next best steps and potential obstacles. Program management staff gain deeper insights into the performance and outcomes of their programs, leading to a clearer understanding of organization-wide trends and opportunities.
+
+Outcomes
+*These outcomes are not exhaustive and are subject to refinement as LifeMoves hones our data capabilities. 
+
+Long Term Outcomes 
+Long-term outcomes are the most vibrant expression of an organization’s impact. They are tracked for a specified period of time after a participant transitions from the program and speak to the efficacy of the LifeMoves program model advancing the organization’s mission While the below definitions may shift over time as LifeMoves collects and analyzes data, it should be noted that in breaking the cycle of homelessness, LifeMoves must strive to ensure it has the most robust definitions possible to provide easy and relatable explanations for success to both internal and external stakeholders. 
+
+HOUSING
+Stable
+oPhysical address
+oUtilities (heating, plumbing, electrical)
+oPermanent housing, permanent supportive housing, market rate rent, subsidized housing, board and care
+oNo: squatting, living in car, or living in a shelter
+oTracked at least one year after program exit
+o% of clients who secure perm housing is at or above CoC system performance in each count
+
+STABILITY
+Income to meet basic needs (i.e., housing, food, utilities, childcare, transportation, medication, and clothing) 
+oIncome is defined as: job, SSI/SSDI, family support, non-cash benefits (TANF, CalFresh, GA, etc.)
+Maintenance of self-efficacy: connected to and engaging with community supports and systems including medical, legal, educational, etc. 
+
+Intermediate Outcomes
+Intermediate outcomes are deadline-driven milestones that are reached while a client is still receiving services and/or intensive support. Attaining this level of outcomes suggests that a family or individual is on-track to be successful after program, and if the outcome is achieved at program exit, suggests that the client will have a very good chance of achieving long-term outcomes, and therefore embodying the mission statement of LifeMoves.
+
+HOUSING
+·X% of clients who successfully complete core programming prior to exit
+·X% secure stable housing prior to exiting program
+·X% of clients that secure permanent housing prior to exiting program
+·Median and mean length of stay in program
+
+STABILITY
+·Securing a stable source of income
+·X% of clients who receive a job
+·X of clients who retain employment
+·X% of clients who save 50% or more of their income while in program
+·X% of clients who maintain or increase their income while in program 
+·X% of clients who secure 1 or more additional non-cash or safety net benefits (MediCal, Medicaid, SNAP, etc.)
+
+Short Term Outcomes
+Short-term outcomes allow staff to see, near to real time, how well the program is running. Short-term outcomes also show whether staff, and therefore the program is hitting key milestones. These milestones effectively move families and individuals along a trajectory of engagement that will lead towards greater achievement during the program, and the fulfillment of intended long-term impact.
+
+HOUSING
+·X% of intensively case managed clients from the Opportunity Services Center enter LifeMoves housing or move directly into stable housing
+·X% of clients served by the Homeless Outreach Team enter LifeMoves housing or move directly into stable housing
+·Increase in shelter utilization
+·Length of time in shelter
+·Decrease in the length of time on the waitlist (median and mean) 
+
+STABILITY
+·X% of clients who receive a job
+·X% of clients who retain employment
+·X% of clients who save money each month
+
+
+
+Dashboards
+Location of information: https://www.canva.com/design/DAGE3vO9aco/UKgBpz4_Km_qtBmSn0q2Rw/edit
+Outreach Dashboard Link
+Interim Supportive Housing Dashboard Link
+Community Housing Dashboard Link
+Supportive Services Dashboard Link
+
+
+
+Logic Models
+Outreach Pathway Logic Model
+Location of images: https://www.canva.com/design/DAF8CnKmojI/JAiSWTCY_GiEHTJckb07-w/edit
+
+
+
+
+
+Interim Supportive Housing Logic Model
+Location of images: https://www.canva.com/design/DAF7rtaHg2I/o5U3sJxulelod_eydnncwQ/edit
+
+
+
+
+Community Housing Logic Model
+Location of images: https://www.canva.com/design/DAF9iTLIUG4/TdQN2mBBcM78ICtx-kLhHA/edit
+
+
+
+
+
+Program Staffing
+Programs Leadership and Impact & Learning
+Programs Leadership (Chief Programs Officer, Vice President, Senior Director, Directors, Associate Directors): This team makes up the Programs Leadership and is responsible for overseeing all direct service staff and the functioning of all housing, programs, and services. This team also acts as some of the public voices for LifeMoves in order to create a bridge between donors, partners, contractors, and staff for fundraising and operations. 
+Impact & Learning (Chief Programs Officer, Associate Vice President, Analyst, Managers, Administrators): This team makes up the Impact & Learning branch of LifeMoves and is responsible for overseeing all data, analytics, program improvement, and client systems. 
+
+
+*Positions are fluid and change throughout the year, while this is updated yearly. Last updated 8/1/24.
+Interim Supportive Housing- County Breakdown
+
+
+*Positions are fluid and change throughout the year, while this is updated yearly. Last updated 8/1/24.
+
+Staffing Categories and Roles
+Programs & Services Staff: Residential Service Coordinator (RSC), Program Aide (PA), Intake Coordinator (IC), 
+Resident Manager (RM)
+The primary roles and responsibilities of facility staff are to maintain a safe environment and supervision of clients and to work collaboratively with other staff in assisting clients towards the goals of permanent housing and stable income. Staff provide direct service support to LifeMoves clients in regard to day-to-day operations (e.g., chores, bed checks, and inspections). Duties include client entry and exit entry supervision, monitoring client activities, ensuring program rules are followed, answering phones, accepting donations, and helping maintain cordial neighborhood relations. Residential Service Coordinators (RSCs) are also tasked with managing the work of volunteers. The residential manager (RM) shares the same role as a Residential Service Coordinator (RSC) but lives on site. 
+
+Case Staff: Case Manager, Children Service Coordinator, Specialist (Housing, Employment, Eligibility), Case Management Student Intern
+Case staff provide case management in 1-1 and group meetings for LifeMoves clients utilizing tools including but not limited to harm reduction, motivational interviewing, and engagement strategies. They are responsible for providing support, guidance, focus, and assistance to all clients. 
+
+Physical Health Clinical Staff: Licensed Vocational Nurse (LVN)
+Physical Health Clinical Staff provide case management in 1-1 and group workshops for LifeMoves clients around physical health and medical support.
+
+Behavioral Health Clinical Staff: Therapy Student Intern, Student Therapist
+Behavioral Health Clinical staff are specially trained in providing clinical services to address mental health, emotional, or behavioral issues. Support may be provided through one-on-one, group, family, or milieu therapy. 
+
+Program Management: Program Director, Program Manager, Associate Program Director, Operations & Services Manager
+Program management is charged with overseeing program and service operations daily including financials, contracts, facilities, personnel staffing, and training. Staff supervise direct service staff. 
+
+
+
+Typical Staffing Patterns
+*Supportive services staff are listed in red
+Outreach Pathway
+Clinical Staff	Location based (1 city) or time based (20 hours) to 1 Case Manager
+20 households to 1 Children Service Coordinator (when serving children)
+50 households to 1 Specialist (not caseload size) (when funded)
+Behavioral Health Services are provided on a case-by-case referral basis
+Program Management	>3 Contracts to 1 Associate Program Director
+1 Program to 1 Program Director
+10 Programs to 1 Director
+
+Interim Supportive Housing Pathway
+Facility Staff
+	100 door facility to 9.6 Residential Service Coordinators (to provide 24/7 coverage)
+100 door facility to 3 Program Aides
+100 door facility to 1 Intake Coordinator
+1 site with commercial kitchen to 1 Food Service Staff (when applicable)
+1 site to 1 Shared Maintenance Staff
+Clinical Staff	15 households to 1 Case Manager
+20 households to 1 Children Service Coordinator (when serving children)
+50 households to 1 Specialist (not caseload size) (when funded)
+100 households to 1 Employment/Eligibility Specialist (not caseload size) (when funded)
+80 households to 1 Case Manager Intern (not caseload size)
+50 households to 1 Clinical MSW (Master of Social Work) Intern (not caseload size)
+50 households to 1 Behavioral Health Intern (not caseload size)
+1 site to 2 Licensed Vocational Nurses (to provide 24/7 coverage)
+Program Management	100 door facility to 1 Associate Program Director OR 1 Operations & Services Manager
+*If site is +100 doors, then +1 manager
+1 site to 1 Program Director
+10 Programs to 1 Director OR Associate Director
+
+Housing Pathway
+Facility Staff
+	1-2 sites to 1 Resident Manager
+1 site to 1 Shared Maintenance Staff
+Clinical Staff	20 households to 1 Case Manager
+50 households to 1 Specialist (not caseload size) (when funded)
+Behavioral Health Services are provided on a case-by-case referral basis
+Program Management	1 Program to 1 Program Director
+10 Programs to 1 Director
+
+
+
+Team Coordination Philosophy
+Communication and collaboration between staff are essential to provide services to LifeMoves clients. Team meetings allow for relationship building, alignment of goals and progress, problem solving and fostering the well-being of staff and the team. LifeMoves meeting philosophy is rooted in the principles of open communication, active listening, and mutual respect. Teamwork serves as the driving force to cultivate meaningful connections, build rapport, and lay the groundwork for effective collaboration that is vital for our client’s success. Voyager, the LifeMoves client management system, is a critical channel for communication and collaboration between staff members. Additionally, Programs and Services staff should be readily identifiable at all locations and when out in the field. As such, staff must always wear their staff ID badge when working and other clothing as needed.
+
+1-1 Supervision Meetings: 
+All staff have at least 30 minutes every other week to meet with their supervisor. 1:1 meeting between staff and their supervisors are intended to serve as a structured space to provide guidance around their work with clients and generally. This is also an opportunity to provide support around professional wellbeing and development. Each client should be reviewed at least every other week, or more frequently if caseload size allows. The staff member is responsible for documenting next steps discussed in their 1:1. This can be included in the “Plan” section of that client’s BIRP note. Note that although the Case Plan will be discussed in 1:1, modification of the Case Plan will only occur with the staff and client working collaboratively. See 1on1 Supervision Guide for a detailed agenda. 
+
+Case Conference/Multi-Disciplinary Team (MDT) Meetings: 
+Case Conferences are intended to be planned, formal and structured, and time efficient.  The Case Conference is intended to enhance client service and progress towards goals via the sharing of information and collaborative problem solving. Additionally, it is a time to discuss broader program or agency issues as detailed below.
+
+The Case Team (may include Case Managers, Licensed Vocational Nurses, Children’s Services Coordinators, Housing Specialists) are responsible for documenting next steps discussed in case conference. This can be included in the “Plan” section of that client’s BIRP note. Note that although the Case Plan will be discussed in the Case Conference, modification of the Case Plan will only occur with the staff and client working collaboratively.  
+
+All of the team’s Case Team and Program Director and Associate Program Director should participate. Select Residential Service Coordinators or Intake Coordinators may also attend at Program Director discretion. The Case Conference should be structured for two hours. In most cases, the Program Director should facilitate. See Case Conference Guide for a detailed agenda.
+
+MDTs are like Case Conferences except that they are intended for internal LifeMoves staff and external partners to participate in. All programs hold Case Conferences, while only certain programs have an additional MDT meeting with external partners. 
+
+Program All Staff Meetings:
+Program All Staff Meetings are monthly, structured meetings with all staff in each program in attendance. For Interim Supportive Housing, each facility has an All-Staff Meeting. Meetings communicate important safety, employment, and program updates. This may include things like discussing coverage during upcoming holidays, walking through a safety drill, and informing staff of the new safety resource ‘grab and go’ kits, or updating staff of the new room check policy and procedure. Additionally, these meetings can be spaces for team bonding and getting to know colleagues better. See Program All Staff Guide for a detailed agenda.
+
+Shift Exchange Meetings:
+Facilities with multiple shifts have shift exchange meetings, in which all available staff participate. Shift exchange meetings are to be utilized as a check-in about what occurred in the last eight-hour period that needs to be communicated to staff members who are beginning their shift. The meetings are intended to enhance client services in the short term and not necessarily about clients’ whole case plans. Examples may include which clients are having issues with medication management or which clients did very well with their room checks. They may be used to pass on important site information to staff like specific instructions for food service or security access changes. 
+
+Program Training
+Training Philosophy
+Training is a critical part of LifeMoves, both for onboarding new staff and for encouraging current staff to develop new skills and keeping them informed on best practices in relevant topics. LifeMoves administers an ongoing, comprehensive, training plan to all programs staff to ensure they are prepared to work effectively with our clients from a client-centered, trauma-informed, and strengths-focused lens and are well-equipped to achieve program performance objectives in compliance with agency policies. The Programs and Services specific training plan is created, updated, maintained, and implemented by the Training Manager and tracked through our Learning Management System, Relias. At times, training may be dictated by a contract; in those cases, specific training and staff members will be tracked in compliance with the contract. Examples of training include but are not limited to Privacy and Confidentiality, Recognizing and Responding to a Person in Crisis, Harm Reduction, Vicarious Trauma and Self-Care, Mandated Reporter Training. 
+Orientation Training
+New program staff complete a two-day, interactive orientation training as part of their onboarding process. This training introduces LifeMoves’ philosophy, an overview of each program, homelessness in the Bay Area, and development and volunteer programs. Staff are introduced to best practices related to client interaction, including motivational interviewing, harm reduction, trauma-informed care, de-escalation, and other engagement strategies. Orientation training also emphasizes the importance of welcoming and professionalism, boundaries, confidentiality and mandated reporting, collaboration, safety, and self-care. Additionally, staff who will regularly utilize the Voyager database participate in a six-part, self-paced training series on how to use the database when working with clients. Staff also receive county training for the county client management systems. 
+Ongoing Training
+New programs staff must complete Relias trainings within their first 90 days of employment. Relias training reiterates the importance of topics discussed in orientation and includes thirteen virtual classes that educate staff on working with our clients. These trainings include: 
+Client's Experience of Trauma-Informed Care 
+Working with Individuals Experiencing Homelessness 
+Overview of Serious Mental Illness for Paraprofessionals 
+Working with Individuals Experiencing Homelessness and Substance Use Disorder 
+An Overview of Substance Use Disorders 
+Strategies for Preventing and De-escalating Hostile Situations 
+Recognizing and Responding to a Person in Crisis 
+Maintaining Professional Boundaries 
+Overcoming Barriers to LGBTQ+ Affirming Behavioral Health Services 
+Privacy and Confidentiality for Non-HIPAA Covered Entities 
+Preventing, Identifying, and Responding to Abuse and Neglect 
+Reporting Elder and Dependent Adult Abuse in California 
+Identifying and Responding to Child Abuse and Neglect
+
+All direct services staff participate in both in-person and virtual training on Nonviolent Crisis Intervention Training, Professional Boundaries, and Mental Health First Aid within their first 90 days of employment; additionally, all direct services staff are recertified in Nonviolent Crisis Intervention at least every two years and receive Professional Boundaries training at least once per year. All staff, regardless of role, are provided the opportunity to attend a Programs Training once a month, where seasoned facilitators and experts train on various topics relevant to our clients, including risk assessment and safety planning, motivational interviewing, harm reduction, domestic violence, housing-focused case management, hoarding behaviors, severe mental health disorders, substance use disorders, and cultivating compassion. 
+·Motivational Interviewing
+·Severe Mental Health Disorders
+·Substance Use Disorders 
+·Hoarding/Cluttering Behaviors
+·Domestic Violence
+·Cultivating Compassion
+·Harm Reduction
+·Narcan Training
+·Risk Assessment and Safety Planning
+·Housing Focused Case Management 
+·Vicarious Trauma and Self-Care
+
+Furthermore, new Case Managers and Program Directors are enrolled in a six-week, intensive Motivational Interviewing training series to strengthen their ability to motivate and support clients in making progress towards their goals and stability.
+Driving Training
+All staff transporting clients in a LifeMoves vehicle are required to complete a safe driving course provided by the agency through Relias. All transportation of clients is done in company vehicles.
+
+
+
+
+Program Safety
+Safety Philosophy
+Safety is a critical part of the culture at LifeMoves for clients, employees, volunteers, partners and anyone who interacts with our programs. LifeMoves has both a comprehensive Health Management Plan and Crisis Management Plan, which staff are trained on and provided resources to ensure they can administer the plans fully. Safety plans and policies are created, updated, maintained, and implemented by the Safety Manager and tracked through the internal incident report system. Examples of safety plans and policies include but are not limited to The Big Five, First Aid, Infection Control, and weapons policy. 
+Health Management
+The health and wellness of our clients and staff is a crucial part of the safety culture at LifeMoves. Operating facilities where people live and work create unique challenges for maintaining the health and wellness of all those in the environment. Staff work with experts to maintain quality health standards throughout our facilities and have the necessary reporting information and handling information for health and wellness situations. 
+
+Diseases: bedbugs, breathing issues, chicken pox, diabetes, hand foot and mouth, lice, measles, MRSA, scabies, vomit, diarrhea, and TB. 
+First Aid: bleeding, chemical safety, choking, fall, heart attack, heat, poison, seizure, stroke, unresponsive CPR, withdrawal, and wound care
+Infection Control: bleach, cleaning, cold and flu, control, hand washing, laundry, PPE, splash, and needle stick
+
+Crisis Management
+Staff and clients collaborate in emergency preparation to plan, train, and respond to unforeseen events in the safest way possible. All safety procedures are documented and provided to staff and clients. 
+
+Shelter in Place- emergency procedure to seek safety within the building rather than evacuating to the greater area (bad air days, active violence nearby, etc.)
+Drop Cover and Hold On- emergency procedures to reduce the chance of injury during an earthquake 
+Secure Campus- emergency procedure that allows for operations to continue with little disruption as focus is on access control
+Lockdown/Barricade- emergency procedure when there is a threat to the facility
+Evacuation- emergency procedure to leave the facility most often utilized for fire
+Health and First Aid- emergency and non-emergency procedures to handle illness, contagious diseases such as COVID-19 and TB, accidents, injuries, and death at facilities
+
+In an emergency, staff are trained to follow emergency procedures and the direction of emergency personnel calmly and quietly. Program staff call 911 if necessary and use an internal emergency communication alert system to communicate with others. In an emergency, clients may be encouraged to call 911 if staff are unable to do so. Staff and clients are responsible for reviewing evacuation and other safety plans provided in the safety area and during monthly meetings.
+Examples of extreme emergencies: 
+•Major facility incident (roof collapse, extreme flooding, long term power outage, broken HVAC)
+•Active shooter/active shooter in area
+•Fire
+•Natural disasters (earthquake, landslide, flood, mudslide)
+•Assault with a weapon
+ 
+Reporting of Incidents
+LifeMoves staff report incidents that disrupt safety accurately and as soon as possible. The definition of an incident is when an event occurs that is physically or psychologically harmful or potentially harmful to a client, staff, or other person. 
+
+Incidents may be documented in the Electronic Logbook (ELOG) and/or the Incident Report Form depending on the severity of the incident. Documentation is completed objectively with succinct and accurate written description of the incident as soon as possible, after the incident occurs. Staff notify management promptly and seek clinical guidance as needed. Program Director, Associate Program Director, or Program Manager follow up on all incidents as needed.
+
+Electronic Logbook (ELOG): The Electronic Logbook is utilized by Programs & Services staff to document incidents that are not deemed severe enough for an Incident Report. The ELOG is also used for additional communications unrelated to safety. 
+
+Incident Report Form: The Incident Report Form is on a secure online form and filled out by the staff who witnessed or participated in the event and submitted to supervisor. Supervisors follow up, sign off, and then send it to leadership. Incident Reports are reviewed weekly by Programs & Services leadership and followed up on as needed. 
+
+Mandated Reporting: Programs staff are mandated reporters and receive Mandatory Reporter training yearly. Staff are legally required to report reasonable suspicion of abuse/neglect of a child or elder/dependent/gravely disabled adultto the appropriate law enforcement or social service agency. This may include, but is not limited to neglect, or physical, sexual, financial, or other types of abuse. 
+
+Tarasoff Reporting: Under Tarasoff law, programs staff have a duty to warn when they suspect threat of harm to an individual or group. Staff report potential bodily harm to a victim (and, optionally, to the relevant police department) when they believe that a client poses a serious risk of inflicting serious bodily injury to another person.
+
+Safety Policies
+Client Transport Policy
+Clients will only be transported in LifeMoves company vehicles by a member of staff that has completed their requirements and only during that employee's work time. Programs & Services provides support for client transportation costs, when possible, usually in the form of bus tokens, bus passes, or Lyft rides. Staff may transport clients for medical appointments, public assistance appointments, and car emergencies, when approved by management. Outreach employees may provide car riding services without preapproval by management. Please note that staff may not transport clients in their personal vehicles.
+
+Staff Identification Policy
+Program staff should be readily identifiable at all locations and when out in the field. Staff must always wear their staff ID badge when working. Certain teams may require other pieces of identification including shirts, jackets, etc.
+
+Vehicle Safety Policy
+The purpose of this policy is to protect the safety of individuals operating any motor vehicle during LifeMoves company business and including personal and LifeMoves company vehicles*. The main goal of fleet safety program is to maintain high safety awareness and foster responsible driving behavior. Drivers of LifeMoves vehicles fill out required documentation and fulfill required training. Violations of this policy may result in disciplinary action up to and including suspension of driving privileges or Termination. 
+*LifeMoves Company Vehicle: A motor vehicle owned by or leased to the company, including a temporary replacement vehicle. 
+
+Volunteer Safety Policy
+Program staff follow emergency procedures and the direction of emergency personnel. Volunteers are responsible for their own safety and for following staff and emergency personnel instructions in an emergency. 
+
+Weapons Policy 
+At LifeMoves, our commitment to ensuring a safe and secure environment for all individuals within our care is unwavering. Therefore, it is our policy that no weapons are permitted within any LifeMoves facility. This policy applies to all clients, staff, volunteers, and visitors.
+We recognize the diverse array of facilities we provide, ranging from single SROs (Single Room Occupancy) to communal living spaces, each catering to the unique needs of those experiencing homelessness. Despite the variations in facility layout and structure, the prohibition of weapons remains consistent across all locations.
+Our stance against violence in the workplace is resolute. While specific procedures for enforcing this policy may differ based on individual site characteristics and operational requirements, the overarching principle of no weapons in the workplace remains steadfast.
+LifeMoves is dedicated to fostering collaborative partnerships with local law enforcement agencies to promptly address any concerns related to weapons possession or violent behavior within or around our premises. We prioritize the safety and well-being of all individuals involved and take swift action in response to any threats or emergencies.
+Regular reviews of our weapons policy are conducted to ensure its effectiveness and alignment with evolving needs and circumstances. Any necessary revisions are made in consultation with stakeholders to uphold our commitment to providing safe and supportive environments for all.
+By adhering to our weapons policy and principles against workplace violence, LifeMoves reaffirms its dedication to fostering environments of dignity, respect, and safety, where individuals experiencing homelessness can find solace, support, and opportunities for positive change. 
+
+
+
+Program Administration
+Program Principles
+The following are the Program Principles to ensure the safety, wellness, and positive experience of staff and clients within a program. The information in black is the philosophy around the principle, the information in blue is from the documents provided to clients. Specific nuances may vary from facility to facility.
+
+Non-Discrimination Policy: 
+LifeMoves is committed to creating a diverse environment where all individuals are treated fairly and with respect. With our staff and with our clients it is important to proactively prevent discrimination and promote equality. This statement, which clients receive when they first enter a program, provides a clear framework for behavior and decision-making, ensuring all actions and policies are consistent with the principles of nondiscrimination.
+It is LifeMoves policy to treat our clients without regard or consideration for the individual’s race, color, religion, sex, age, national origin, ancestry, physical or mental disability, veteran or marital status, medical condition, pregnancy, sexual orientation, or any other basis protected by federal, state, or local law. To comply with applicable laws ensuring equal opportunities to clients with a disability, LifeMoves will make a reasonable accommodation for the known physical or mental limitations of a client with a disability unless undue hardship would result.
+Client Bill of Rights
+The LifeMoves Client Bill of Rights policy and list outlines the rights and expectations that a client can expect when engaged with a LifeMoves program. This enhances client experiences, builds trust, and establishes a positive and transparent relationship between staff and clients. Additionally, it provides a framework to reach a fair and equitable resolution during conflicts, grievances, and appeals. It encompasses a policy on the administrative level and includes a list of rights inserted into all program guidelines, which are seen by all clients at intake.
+a.Clients’ rights will be exercised in ways that also respect the rights of others. No individual’s rights are absolute.
+b.Clients are entitled to enjoy a safe and healthy living environment in the program facility.
+c.Clients are entitled to be treated in a manner that respects their dignity and individuality.
+d.Clients with disabilities, personal, and cultural differences are entitled to reasonable accommodations under fair housing laws when such accommodations are necessary because of their disability, personal, and cultural identity. LifeMoves will accommodate clients’ needs (expressed, implicit, or implied) as long as such accommodation will not result in an essential change to the program or residential structure.
+e.Clients are entitled to remain in the program and not be involuntarily removed without reasonable cause and just procedures.
+f.Clients are entitled to just and standardized procedures for determining eligibility, admissions, sanctions, discharges, and resolving grievances.
+g.Clients are entitled to reasonable privacy and confidential treatment of personal, social, financial, and medical, mental, and behavioral health records, except as necessary to further treatment; information; and referral services; and in compliance with the client’s written consent to release information.
+h.Clients are entitled to the full exercise of their civil, constitutional, and legal rights.
+
+Reasonable Accommodation Notice 
+Having a reasonable accommodation process for our clients is a legal requirement. Additionally, it fosters inclusivity and prevents discrimination in our programs. Our clients often come into our programs experiencing barriers in the past. Providing the necessary tools, modifications, and support in our work with clients in order to minimize or lower the barriers wherever possible can lead to increased empowerment and engagement. Examples of accommodations clients may request include but are not limited to less physical chores due to a medical need, support from staff to fill out any writing requirements the client has due to writing ability, a fridge in their unit (where fridges are not included) due to medical or dietary need. The reasonable accommodation encompasses a policy on the administrative level and includes a specialized paragraph and form inserted into all corresponding program guidelines, as well as a staff procedure for granting or denying accommodations.
+
+Those wanting to make a reasonable accommodation request to aid a physical and/or mental health disability should speak with their case manager and/or program director as soon as possible to alert staff to the request. Some reasonable accommodation requests will be asked to be placed in writing and may require follow up paperwork before such requests can be considered for accommodation. A reasonable accommodation request form will be provided. 
+
+Documentation & Confidentiality
+Proper documentation and security of information is essential for ensuring safety, client care, and program effectiveness. LifeMoves provides ongoing support and systems for staff regarding proper documentation procedures, including maintaining case notes, incident reports, shift log notes, and other information required to run effective and compliant programs. LifeMoves staff balance protecting privacy and communicating internally and with partners (when a Release of Information (ROI) is signed) to provide clients with the best support possible. LifeMoves staff are mandated reporters, which means staff will report to Child Protective Services, Adult Protective Services, and will report if someone is a threat to themselves or others. All staff must agree in writing to security practices before being granted access to both the San Mateo County and Santa Clara County Human Management Information Systems (HMIS) and the internal LifeMoves performance management database. Additionally, in San Mateo County, LifeMoves participates in Assembly Bill 210 – Homeless Adult and Family Multidisciplinary Team Members, which permits multidisciplinary personnel teams of Participating Agencies to share and exchange information made confidential by State law to facilitate the expedited identification, assessment, and linkage of homeless adults and families to housing and supportive services within the County. 
+Confidentiality is critical in our clients’ rights to privacy and dignity. Respecting confidentiality fosters a sense of autonomy and personal control over a client’s information. Additionally, confidentiality is crucial in establishing trust and building collaboration. Our client populations are often stigmatized by societal attitudes and misconceptions; protecting confidentiality helps minimize the risk of further stigmatization and discrimination, providing a space for clients to access services without fear of negative consequences or personal circumstances being disclosed. At LifeMoves we believe individualized case plans are a key aspect of a client's success. Often, the more a client feels comfortable disclosing, the more individually tailored an case plan can be, which in turn means more effective services and a more successful outcome. Finally, confidentiality within our programs may be a matter of safety and security for our clients. 
+LifeMoves staff protect our client information both internally and externally. Internally our staff share information with each other that is key to supporting a client with their case plan. For example, a LifeMoves Case Manager will share a client’s legal history to the extent that a LifeMoves Specialist needs in order to provide the best housing options (e.g., the Case Manager may share the client is a 290 (sex offender status) but not share the nature of the crime as it is not pertinent to the clients housing needs). Externally LifeMoves staff utilize ROI agreements that are discussed with and if agreed to, signed by clients to allow communication between external partners. LifeMoves staff will not share information about a client, even to the extent that the person is a client unless an ROI is on file; some exceptions exist when the health and safety of the client or community may be at risk. Additionally, LifeMoves staff utilize a separate Media Release Agreement that is discussed and if agreed to, signed by a client to allow LifeMoves to utilize the client’s information for media purposes. 
+
+LifeMoves is required by law to protect client confidentiality. For this reason, LifeMoves staff can neither confirm nor deny that a client resides at this facility or participates in programs unless the client has provided a written, signed consent. Case Managers can provide more information on LifeMoves’ privacy policies and practices.
+
+Client Eligibility 
+Informing clients about program eligibility is crucial for ensuring fair, transparent, and effective service delivery. It allows clients to make informed decisions, helps LifeMoves allocate resources wisely, and contributes to the overall success and impact of the services. Additionally, understanding eligibility helps manage client expectations and fosters trust in the staff. It encompasses a procedure on the program level and includes a specialized paragraph inserted into the corresponding program guideline, which staff validate with clients during intake.
+
+It is the practice of LifeMoves to work with any individual, couple or family meeting the definition of “homeless” (according to HUD) and eligible to participate in LifeMoves programs. Clients agree to participate in the program and abide by all program guidelines. LifeMoves has the right to refuse potential clients (see safety concerns below). Individuals, couples, and families denied admission are given information, resources, and referrals to appropriate programming. 
+LifeMoves contracts with multiple local, state, and federal municipalities, and private entities. These contracts may delineate specific populations to be considered for admission and services at any program or service. 
+In addition to the above, families must meet one of the below to be eligible for LifeMoves programs: 
+The family has at least one child under age 18; OR
+Pregnant women without other children must be at least 7 months pregnant (with physician documentation)
+
+Due to safety concerns, LifeMoves programs may be unable to accommodate individuals, couples, or families who: 
+Are in a situation involving an immediate risk of domestic or family violence. LifeMoves addresses are not confidential and therefore may be at risk of being pursued by the abusers, placing both clients and staff at risk. Perpetrators of domestic violence may be admitted or denied based on the Program Director’s discretion
+Are not able to safely manage their alcohol and drug use 
+Are not able to manage their Activities of Daily Living (ADLs) or needs a higher level of physical care than can be safely administered in the facility
+Have a conviction of child molestation or related sex crimes in certain programs
+Have history of violence (recent felony convictions, arson, or predatory behavior)
+
+Case Management
+Case management is the critical piece of LifeMoves programming. It is crucial for ensuring that clients receive comprehensive and coordinated services. Coordination, through case management, helps avoid duplication of services and ensures that all aspects of a client’s needs are addressed. By offering personalized support, case management tailors interventions to each client’s unique circumstances, needs, and goals, which increases the likelihood of successful outcomes. It also optimizes resources by helping clients navigate complex systems and access necessary services, such as healthcare, social services, and financial assistance. Through setting clear objectives and actionable plans, case management supports clients in working towards their personal and professional goals. Additionally, case managers advocate on behalf of clients, addressing barriers and navigating bureaucratic challenges to ensure their needs are met and their rights are upheld. Regular monitoring and evaluation by case managers help identify issues early and adjust strategies as needed, improving overall outcomes and enhancing the clients' quality of life. By streamlining service delivery, case management promotes efficiency and accountability, leading to better use of resources and more effective support.
+
+Clients are encouraged to meet with their Case Manager on a weekly basis to ensure that measurable goals are being met and to discuss any barriers to self-sufficiency. Frequency of case management may depend on client needs, case plan, or other opportunities. Successful case management means that, TOGETHER, the client and Case Manager will review goals and accomplishments. The Case Manager will assist with referrals to outside agencies and provide information about community resources as appropriate. Case management may cover the following, depending on the case plan that is built by the client and case team.
+Housing/Shelter Moves – may include regular housing search logs, viewing and applying for housing, or acquiring a credit report.
+Financial Moves – may include employment support, vocational skills, referral to financial benefits, referral to financial counseling, assistance in budgeting, or applications for mainstream benefits
+Behavioral Health Moves – may include developing self-care and coping skills, support to strengthen social relationships, referral to therapy or counselling, support in maintaining sobriety, or support in recovery goals
+Physical Health & Activities of Daily Living (ADL) Moves – may include support to set up health care appointments, healthcare enrollment, or support with client self-administration of medication
+Legal Moves – may include support with open legal cases, support with immigration resources, partner with client to work on parole or probation goals, or referral to BSCC program for any client incarcerated in a CA state prison at any time to receive client assistance
+Clients will communicate with their Case Manager when any of the following occur: 
+Require reasonable accommodation to meet program policies and requirements.
+Changes to source of income, housing fund contribution, or budget. 
+Loss of job, or change of employment, training, or educational programs.
+Having problems achieving personal and program goals.
+Having problems with other clients or staff.
+Unable to attend case management meetings, classes, or workshops.
+
+Attendance
+Attendance: Clients are responsible for and encouraged to be on time for all appointments with their Case Manager, group meetings, and outside appointments. We understand there may be times when an unforeseen emergency occurs, and you may not be able to keep your scheduled appointment. In those cases, please try to provide 24 hours advance notice.
+Accommodations to Attendance: Clients should let staff know work and other schedules, in order to plan meetings at times that work best for each client. 
+Clients who do not return to shelter site within 24 hours will be contacted. Abandonment of unit may result in being given an Ask To Leave Letter (ATL) which clients will have the opportunity to appeal. Abandonment is defined as not checking in with staff for 3 days. If clients do not return to shelter or do not get into contact with the shelter within 72 hours, all belongings will be stored for pick up for 72 hours after discharge.
+
+Housing Fund
+The cost of living in California is often a barrier for the people living in the Bay Area. One resource that LifeMoves has found success with is a Housing Fund. Clients contribute to this fund while in program and are provided the full amount when they transition. LifeMoves takes no fees for resource. Clients often use this money for first months rent, deposit, or a safety net for their transition into more permanent housing. 
+
+LifeMoves has designed a Housing Fund program to support clients in their search for permanent living arrangements. Clients have the option to participate in LifeMoves’ Housing Fund Plan or to save money in their own fund. In either case, clients are strongly encouraged to contribute 30% of their income each pay period into their housing fund. 
+Clients choosing to participate in the LifeMoves Housing Fund Plan, will discuss with their Case Manager how to contribute money to the fund and how to keep receipts for deposited funds. When a client is discharged, they will be provided a check for the amount they saved during the program. Clients who leave the program before their discharge date must give their Case Manager 48 hours’ notice to provide time to prepare a check for their savings contributions. 
+
+Length of Stay
+Setting a length of stay or length of program for clients aligns with the transitional housing approach to encourage clients to actively pursue more stable and permanent housing solutions. The major factor when looking at a long length of stay is ensuring that the client does not stay past the limit of qualifying as ‘homeless’ and therefore being eligible for government services and resources that are only provided to this categorization. LifeMoves is in the process of moving our model in the direction of lengths of stay being dependent on the housing plan of the individual; recognizing that individual clients have unique circumstances and complex challenges that may require longer time and more support. Lengths of stay vary from program to program and may require more analyzation of data in the future in order to create a LifeMoves best practice or model around length of stay. 
+
+The program length of stay is dependent on the housing plan of the individual. Extensions may be granted by LifeMoves management on a case-by-case basis, based on the client’s:
+Engagement and progress in meeting case plan goals (for example, stable housing, employment, mainstream benefits, contributing to housing fund, and increased self-sufficiency).
+Compliance with community guidelines.
+
+Program Extension
+Extensions are utilized in programs when there is a designated exit date. When a client is reaching their exit date based on their length of stay, clients meet with their Case Manager to work on extensions, as needed. These may be granted based on the client's engagement and progress in meeting the case plan and goals and the client's engagement with the community guidelines. Extensions can be helpful for clients with complex circumstances, instances of limited housing options, and building trust to increase the likelihood of success.
+Program Transition
+Program completion occurs when a client exits out of a LifeMoves program having completed some or all of their case plan. While for most of our clients, program completion entails securing permanent housing. While for other clients, it means placement into a more appropriate program or location, including residential treatment program, hospice care, or other medical facility. 
+Written Warnings
+Written warnings may be given to clients as part of a structured and supportive approach to address and correct non-compliant behaviors or situations. Clients are provided the rules and guidelines at intake and given clear information regarding expected behavior. Warnings are utilized as a tool to alert clients and case managers to what can be worked on in their case plan rather than as a punitive tool. For example, a case manager and client may agree to keeping their unit clean for three weeks as a measurable task after the client has received a written warning about their unit space. In certain circumstances, including but not limited to criminal activity, safety concerns and aggressive/threatening behavior, clients may be terminated immediately without a written warning notice. 
+
+Written warnings may be given to clients for the following:
+Violations of program policies, rules, or community guidelines
+Behaviors or actions that are disruptive, maladaptive, or abusive to other individuals or to the community
+Failing to actively follow a case management plan to which the client has agreed to follow
+The Case Manager will be informed when a client receives a written warning. Clients who receive a warning for a serious offense, or more than one warning for lesser infractions, may be discharged and terminated from the program.
+
+Grounds for Discharge
+Our programs have a responsibility to provide safe and secure environments for everyone at our various locations of operation. Having clearly defined grounds for termination protects staff, clients, visitors, and others from potential harm or disruptive behavior and holds everyone accountable for creating a safe and secure environment. It also helps create a supportive and positive community built on dignity, respect, and collaboration. Each client may be working on individual goals and when an environment where clients see their accomplishments as positively impacting the community is created, it can make a greater impact. The grounds for discharge encompasses a procedure on the program level and includes a list of rules that are provided to clients at intake. 
+LifeMoves strives to create an environment of safety for all those onsite. For safety reasons, clients will be subject to discharge for violating any of the rules listed below. Discharged clients are ineligible for re-entry for 30 days, then LifeMoves management may reassess eligibility back into the program.
+a.Absolutely no weapons are allowed on LifeMoves property. 
+LifeMoves operates a safe living environment for clients, staff, and others. Any clients concealing or using weapons will be asked to leave the program immediately and the appropriate authorities will be notified. Weapons include, but are not limited to, guns, knives, tasers, mace and pepper spray, and all other devices whose primary purpose is to injure or kill. In addition, any object or substance used to attack or threaten another person will be considered a weapon. LifeMoves staff check belongings at intake to ensure health, safety, and wellness of all clients. If a weapon is found or turned in at that time, staff will hold it in a secure location until the client exits the program. 
+b.Absolutely no physical assault, gestures, or threats of violence. 
+Any behavior deemed by staff to warrant intervention by police or other emergency personnel is cause for immediate discharge.
+c.Absolutely no sexual harassment. 
+Any behavior deemed by staff to warrant intervention by police or other emergency personnel is cause for immediate discharge.
+d.Absolutely no verbal abuse including offensive language, harassment, and racial slurs.
+Any behavior deemed by staff to warrant intervention by police or other emergency personnel is cause for immediate discharge.
+e.Absolutely no engaging in any illegal activities on premises. 
+Staff will contact the police, if necessary. 
+f.Absolutely no destruction, vandalism, or theft of LifeMoves or another client’s property. 
+Any behavior deemed by staff to warrant intervention by police or other emergency personnel is cause for immediate discharge.
+Program Discharge 
+A discharge occurs when a client is presented with an “Asked To Leave” letter (ATL), which is written by program leadership. Reasons a client may be terminated from a program includes but is not limited to threatening person or community safety, violent conduct, not following program guidelines, unit abandonment, not abiding laws, etc. LifeMoves is in adherence with AB 1991; all discharges that are not due to safety concerns are put into writing and provided to clients 30 days prior to the date of program discharge. To the best of the staff’s abilities, all clients are provided with appeal information as well as information for referrals to other partners and organizations before or at the time of discharge.
+
+Federal, state, and local laws are strictly enforced. Should clients, friends, or associates be suspected of illegal activity or disturbing the staff or other clients, the client may be terminated from the program.
+If for some reason a client is terminated from the program (e.g. violent conduct, not following the program guidelines, etc.), the client agrees to leave by the time designated by staff. LifeMoves staff will give clients a notice in writing whenever possible which outlines the reason and time of the client’s departure.
+Right to appeal decisions: Clients who do not agree with a decision made by staff regarding denial into the program, termination, or consequences related to program violations may appeal. In order to do so, the client must submit their appeal in writing before the termination deadline or within one day of the incident in question. The client’s Case Manager is available to assist in writing the appeal. The appeal outcome will be decided by the Program Director and Case Manager. Whenever possible the Program Director will meet with the client and the client’s Case Manager as a part of the appeal decision. The client will receive a written response from the Program Director regarding their appeal as soon as possible.
+If a client wishes to continue with the appeal process, they may request that the Program Director Committee review the situation. This request must be made in writing immediately after receiving the decision from the Program Director. The Program Director Committee will review the written appeal, consult with staff, and, where possible, review the case file and/or meet with the client. The Program Director Committee will provide a final decision in writing as soon as possible.
+During the appeal process the client may remain on the premises even if it goes beyond the client’s termination date unless the client remaining on site represents a threat to anyone’s safety (i.e., violent conduct, disorderly conduct). If the appeal decision is that the termination is upheld, the client is expected to comply with that decision and the termination date given on the written response.
+
+Client Feedback 
+Client feedback is crucial in helping improve our programs and services, ensuring client satisfaction, building client empowerment, and adapting to the needs of the populations we serve. Through feedback our staff can identify areas that are working well and those that may need improvement, as well as make data-driven decisions and allocate resources where they are most needed. This process empowers our clients by giving them a voice, allowing them to express concerns and advocate for their rights, dignity, and respect. Also, feedback allows us to identify service gaps, create a culture of continuous improvement and accountability, and serve as a safeguard against abuse or discrimination within our programs. 
+All programs have approaches to provide anonymous feedback. Many programs have specific ways to provide feedback including suggestion boxes, online surveys, kiosk surveys, etc. Feedback may be provided during meetings or in less formal settings. At times, our teams will hold focus groups for groups of clients to weigh in on specific procedures. For clients who want to provide anonymous feedback, every facility has an anonymous feedback box. Feedback left in this box is reviewed by the Program Director at that facility. Additionally, LifeMoves has a grievance form that is available to clients ‘to redress any conditions they believe to be unfair. Any individual dissatisfied with the application of the program regulations, service by the staff or refusal from the program may file a grievance.’ These are also reviewed by the Program Director and handled accordingly.
+
+LifeMoves encourages clients to provide feedback while in program and ensures there is ample opportunity to do so. Feedback may be provided during meetings or in less formal settings. At times, our teams will hold focus groups for groups of clients to weigh in on specific procedures. For clients who would like to provide anonymous feedback, every facility has an anonymous feedback box that is available. Feedback left in this box is reviewed by the Program Director at that facility. The City of San José will install an evaluation and feedback kiosk to engage with participants and gain feedback on services through City-developed pre-loaded surveys. Clients will have the opportunity to provide recommendations and information about their experience at any time. Customized reports will inform the City of San José and LifeMoves on how to make improvements. Additionally, LifeMoves has a grievance form that is available to clients ‘to redress any conditions they believe to be unfair. Any individual dissatisfied with the application of the program regulations, service by the staff or refusal from the program may file a grievance.’ These are also reviewed by the Program Director and handled accordingly.
+
+
+
+
+Community Guidelines 
+The following are the Community Guidelines to ensure the safety, wellness, and positive experience of staff and clients within a program. The information in black is the philosophy around the guideline, the information in blue is from the documents provided to clients. Specific nuances may vary from facility to facility.
+
+Facility Hours 
+Structured and communicated hours contribute to the safety, organization, and effectiveness of our program’s operations. Structured hours allow staff to efficiently plan and distribute resources such as meals, workshops, and support services. Quiet hours ensure there are designated times for sleep and rest, supporting clients to build healthy sleep patterns and to create a predictable routine that supports engagement in appointments and services during appropriate times. Our structured hours are a framework that allows clients accountability and empowerment to manage their time and support their goals individually in a structured yet flexible way. 
+
+The facility is open 24 hours a day, 7 days a week
+Delivered/Prepared Mealtimes: (Delivered Mealtimes may be subject to change with little or no notice)
+Breakfast:  ___________
+Lunch:  ___________
+Dinner:  ___________
+accommodations will be made if someone misses a meal time
+Laundry hours: ___________; last load to start by ___________; accommodations will be made for work schedules
+Evening Activities: ___________; may include community meetings, workshops, and other opportunities we encourage clients to participate in
+Quiet hours: ___________
+
+Signing In and Out 
+Sign-in and -out procedures for all who enter a facility enhance the safety of the community. In an emergency, staff must have an updated list of who is present inside the facility to communicate with emergency services, ensuring everyone is evacuated or assisted as needed. These procedures also contribute to access control and the prevention of unauthorized individuals entering. 
+
+In the event of an emergency, for safety purposes, everyone must sign out when leaving the premises and sign in on return. Staff will use the sign-out/in sheet for roll call in case of an emergency.
+
+Good Neighbor Policy 
+Our programs and our clients are often stigmatized by the larger community. Staff and clients collaborate to foster positive relationships with the surrounding community and to promote safety at the facility and surrounding area. Positive interactions, collaboration, and engagement with neighbors, local businesses, and community organizations is critical to our programs and clients’ integration into the community. Building positive rapport with our neighbors also helps us address any concerns or misconceptions that may exist and creates open communication for sharing of information and resources. 
+
+The LifeMoves Good Neighbor Policy is comprehensive and tailored to each facility. All clients, businesses, agencies, and property owners within the neighborhood (neighbors); LifeMoves staff; and clients have a right to personal safety, to safe and quiet enjoyment of their properties and public spaces, to access services, and to meet their basic needs. 
+The quality of life and the overall character of the neighborhood can be greatly influenced by the behavior of staff and clients. Displaying a respectful and courteous attitude makes the neighborhood a more pleasant place to work and live. Staff and clients are expected to exercise good judgment and be sensitive to the needs of their neighbors. Clients should not loiter at nearby locations. 
+
+Daily Wellness Checks 
+Wellness checks serve multiple purposes in our work with clients. First, they are used to monitor physical health, mental well-being, and overall safety and stability. Wellness checks help staff identify any emerging issues or concerns before they escalate into crisis situations and help our staff build rapport and trust with clients that is critical when working on individual goals. Staff utilize wellness checks to provide emotional support, resources, and monitor progress. Also, staff can ensure basic needs are met and enhance accountability with our clients when they know someone will be checking in with them daily. LifeMoves staff check in with people in a variety of ways and spaces including but not limited to when clients enter and exit the facility, during meals or other events, or going to specific units if they have not seen someone throughout the day. 
+
+Your health, safety, and wellbeing are important to us. Staff check in with our clients on a daily basis as people enter and exit the facility, during community meal times, workshops, and other events, and may come by units to see how people are doing and any services they may need.  
+
+Inspections 
+LifeMoves conducts regular inspections to ensure safety, program rules compliance, fire safety and pest control. They are utilized by staff to identify any potential concerns before they escalate further. There are three types of inspections our staff utilize: 1) Health and Safety: LifeMoves staff check spaces to identify potential maintenance needs or health and safety hazards. These may occur routinely or on an as needed basis; 2) Facility: LifeMoves staff check units, beds, and commons spaces for safety, cleanliness, and maintenance needs on a weekly basis; 3) Intake: LifeMoves staff check belongings at intake to ensure health, safety, and wellness of all clients. The two facility inspections (1, 2) are utilized as a tool for assistance and support, providing an opportunity for staff to identify clients who may need additional support and connect clients with resources or other supportive interventions. Additionally, a well-maintained living environment contributes to a positive atmosphere, positively impacts the mental well-being of clients, and fosters a sense of dignity. Tracking inspections of the facility and living spaces can be useful for tracking trends and monitoring for improvement needs. The third type of inspection is utilized primarily to ensure the safety, security, and well-being of all individuals at the facility. If found during intake inspection, staff will confiscate weapons and substances that violate the clean and health environment guideline. Certain weapons are securely held until the client exits the program and substances are disposed of in the proper method. For more information see Clean and Health Environment and Items Not Allowed on Site guidelines. 
+
+LifeMoves conducts regular inspections to ensure safety, program rules compliance, fire safety and pest control. We encourage clients to report maintenance needs immediately to program staff, who will contact the LifeMoves Facilities Maintenance Department. During inspections, staff may confiscate certain prohibited items from personal spaces. Program participants may be held responsible for destruction of LifeMoves property. Below are the types of inspections conducted within your program:
+A. Health and Safety: LifeMoves staff check spaces to identify potential maintenance needs or health and safety hazards. These may occur routinely or on an as needed basis. 
+B. Facility: LifeMoves staff check units, beds, and commons spaces for safety, cleanliness, and maintenance needs on a weekly basis.
+C. Intake: LifeMoves staff check belongings at intake to ensure health, safety, and wellness of all clients. 
+There will always be at least two staff going into units. If a client refuses, staff will assess the situation and work with client.
+
+Communal Responsibilities
+Daily community responsibilities clients are asked to contribute to the overall functionality, cleanliness, and sense of community within LifeMoves programs. Participation reinforces the idea that everyone plays a role in maintaining the living space and contributes to a collaborative community with respect for shared spaces. Additionally, responsibilities help clients develop and enhance practical life skills including establishing routine and time management skills. Staff can use these tasks in a client’s case plan as small steps to build self-esteem and feelings of accomplishment, also preparing them for independence and self- sufficiency that will be valuable when they transition to permanent housing. Responsibilities differ amongst our facilities based on the need, layout of the space, and population needs and abilities. Some examples include sweeping common spaces, emptying common space trash cans, wiping down entrance and exit door handles, etc. 
+
+Facility and Unit Cleanliness
+Communicating and implementing guidelines about clients personal living space and belongings is important to protect overall safety and ensure the health and hygiene of all in the facility. They support creating a positive atmosphere in promoting respect of personal space and encouraging responsibility and ownership of personal space and items. Additionally, these guidelines can be utilized by staff as tools to promote accountability and support personal development by establishing routines, setting goals, and working toward stability and independence. 
+
+Clients are expected to maintain a safe and clean environment by picking up/cleaning up after themselves. Clients are encouraged to help maintain cleanliness of the community by helping with other cleaning contributions and can see staff for opportunities. Clients shall keep their unit and all areas surrounding unit in a clean, habitable condition (normal wear and tear excepted). At program completion, client shall be asked to return unit to condition when they entered. Clients agree to keep all windows, glass, window coverings, doors, locks and hardware in good, clean order and repair; Keep all lavatories, sinks, toilets, and all other water and plumbing apparatus in good order and repair and shall use same only for the purposes for which they were constructed. 
+
+Smoking 
+It is commonly understood that smoking may be used as a stress release, a coping mechanism or as a ritual and often becomes a habit that is difficult to stop for many reasons including addiction and lack of access to smoking cessation resources. Our staff have ample access to smoking cessation resources, and we encourage speaking to clients around their motivation to quit smoking. Providing designated smoking areas in our facilities acknowledges and respects the personal choice of our clients, minimizes exposure to secondhand smoke and exposure to those attempting to quit, promotes safety, and encourages a harm reduction model. Smoking areas depend on the facility's layout and consider living and common spaces, staff offices, and public spaces. 
+
+Smoking is permitted ONLY in designated smoking areas. Smoking is prohibited anywhere within 50 feet of the main entrance of the facility.
+
+Clean and Healthy Environment 
+The health and safety of all our clients is our highest priority. LifeMoves programs provide a supportive environment for individuals in recovery or working toward recovery from substance use disorders and foster an atmosphere conducive to continued recovery. By committing to providing this environment, our facilities minimize the exposure to substances and reduce the risk of relapse. Additionally, having clean and healthy environments promotes positive mental health, builds a supportive community, and encourages long-term stability. Where feasible, programs offer a wellness space for clients to utilize especially when under the influence of substances. This space provides an opportunity for safe monitoring and assistance by staff while minimizing the disruption and ensuring safety of the whole community. This harm reduction model supports a clean and healthy space for all while providing a space acknowledging the individual needs and journey of each client we serve. 
+
+Our facility supports an environment that is free of the physical presence of alcohol and drugs (non-prescription/medication). Please see your Case Manager if you would like support or to utilize tools working toward recovery. 
+
+Emergency Procedures
+Staff and clients collaborate in emergency preparation in order to plan, train, and respond to unforeseen events in the safest way possible. All safety procedures are documented and provided to staff and clients. 
+Shelter in Place- emergency procedure to seek safety within the building rather than evacuating to the greater area (bad air days, active violence nearby, etc)
+Drop Cover and Hold on- emergency procedures to reduce the chance of injury during an earthquake 
+Secure Campus- emergency procedure that allows for operations to continue with little disruption because focus is on access control
+Lockdown/Barricade- emergency procedure when there is a threat to the facility
+Evacuation- emergency procedure to leave the facility most often utilized for fire
+Health and First Aid- emergency and non-emergency procedures to handle illness, contagious diseases like COVID-19 and TB, accidents, injuries, and death at facilities
+
+In the event of an emergency at the facility, all occupants must calmly and quietly follow the direction of LifeMoves facility staff (or emergency services personnel, if present). Staff will call “911” as necessary. If a client has called 911 for any reason, please let staff know. 
+If the facility must be evacuated, occupants will follow posted evacuation route signs or follow LifeMoves staff (or emergency services personnel, if present) to a meet-up location. At the meet-up location(s), staff will take roll call to support evacuation efforts by emergency services.
+
+Illness / Contagious Disease
+To protect the safety of everyone in the community, anyone with a contagious illness or condition such as active TB, chicken pox, measles, mumps, whooping cough, pink eye, lice, scabies, etc., will be accommodated and may be transferred to another location to prevent the spread of the communicable condition. Clients discharged in this manner will be placed on “automatic return” status. The individual may return after the facility Program Director receives medical documentation (signed by a physician) that the individual is no longer contagious, and as soon as accommodations are available.
+Clients with latent Tuberculosis must be under the LifeMoves TB Regimen to stay in the program.
+Clients with symptoms of or a positive test for COVID-19 will be handled according to current LifeMoves COVID-19 policies. These policies change periodically, based on local conditions and county/ state/ federal guidance.
+
+COVID-19 Safety Protocols:
+• Follow current guidelines.
+
+Required TB Testing
+New clients must show a record of a negative TB test (PPD Skin Test, chest x-ray, or blood work) within the past 12 months. If no record is available, LifeMoves staff will refer clients to a TB testing provider and make all attempts at providing this resource at the site on a consistent basis. 
+
+Medication Management
+Medication management is an essential part of maintaining the safety of everyone in the facility and stabilizing the client’s health when indicated by their case plan. Staff work with clients and their medical support team on their medication goals and tasks to varying degrees across programs. For safety reasons, facilities where clients do not have individual units, the facility has a designated medication room to store medication. 
+
+At Programs where clients store their own medication: 
+Clients must store their prescribed and over-the-counter medications safely in their assigned rooms. It is prohibited for anyone in the program to sell or share any prescription or over-the-counter medications.
+Medication management is an essential part of maintaining the safety of everyone in the facility and stabilizing the client’s health when indicated by their case plan. For these reasons, clients must agree to adhere to medication and treatment therapy as ordered by appropriate physicians, and for the proper storage, control, and documentation of all medications (prescription and non-prescription). LifeMoves staff is not responsible for administering or dispensing medications, however, staff may observe clients taking their medications, as prescribed. 
+
+Visitors 
+Visitors can be an important part of a client’s stay in a LifeMoves program as it contributes to the overall well-being and support network for an individual. Maintaining connections is crucial for emotional health and allowing visitors onsite helps minimize barriers of transportation or the risk of a client going into an unsafe or unsupportive environment. Visits can also increase motivation, provide encouragement, and build a positive environment at the facility. Additionally, visitors can be intrinsically linked to a client’s case plan either through rebuilding relationships, addressing complex family dynamics, and creating reintegration opportunities into permanent housing. At the same time staff must balance the safety and security of everyone at the facility when implementing visitor procedures. Visitors were stopped during COVID and are slowly being reintroduced at facilities. 
+
+No visitors are allowed in units without management approval. If a visitor refuses to leave, staff may contact the police as the person is trespassing.
+Personal Visitors – Clients are permitted one visitor at a time and no persons under the age of 18 are permitted on site. Visitors must adhere to security protocols and must sign in and out at the main office. Visitors will be provided a temporary pass. Clients must accompany their visitor from the front gate to the identified visiting area and are responsible for their visitors following program guidelines and staff directives during their visit.
+Official Visitors – Clients should inform their Case Manager when they expect visits from social workers, probation officers, and other service providers. When requested, facility staff will try to provide a private space to meet. All official visitors (service providers) must sign in at the front desk and provide their ID and a badge or business card.
+
+Animals 
+LifeMoves facilities are separated into two types: 1) those that only allow assistance animals (service animal, emotional support animal, companion animal, etc.); and 2) those that allow assistance animals as well as pets. Animals provide emotional support, reduce stress, create a sense of purpose and responsibility, offer companionship and safety, provide physical and behavioral health benefits, foster stability, and strengthen social connections. LifeMoves supports the bond between our clients and their animals as it aligns with a compassionate and holistic approach to providing services. Staff support clients in all documentation gathering for registering an animal as an assistance animal to prepare the client to enter permanent housing with that animal. Our staff communicate clear rules to maintain the safety and security of the whole facility, including but not limited to ensuring all animals are leashed or crated in common spaces, vaccination information is up to date, no new or additional pets are brought in while in program, and removing an animal from the facility after a violent incident. 
+
+Clients requiring an assistance animal (service animal, emotional support animal, companion animal, etc.) must request a reasonable accommodation. Please refer to the LifeMoves Reasonable Accommodation Policy so that we may properly consider your request. Staff will work with clients on necessary documentation and requirements, for LifeMoves requirements and for the requirements at future permanent housing locations. Clients may have one pet and may have two on a case by case basis.
+Clients who have been approved for an assistance animal or pet (where applicable) will need to agree to and sign either the LifeMoves Assistance Animal Agreement or Pet Animal Agreement. 
+
+Personal Belongings and Space 
+Communicating and implementing rules about clients’ personal living space and belongings is crucial for protecting overall safety and ensuring the health and hygiene of all in the facility. These rules support creating a positive atmosphere in promoting respect for shared space and encouraging responsibility and ownership of personal space and items. Additionally, these rules can be utilized by staff as tools to promote accountability and support personal development by establishing routines, setting goals, and working toward stability and independence. 
+
+Belongings:
+Clients may not bring more than the equivalent of 2 large bags (60-gallon) of personal belongings into the facility. 
+LifeMoves is not responsible for lost, misplaced, or stolen belongings during the client’s stay. Clients are encouraged to safeguard their valuables. 
+Clients will be held responsible for any destruction or theft of LifeMoves or other clients’ property and will be discharged and subject to legal action.
+Clients are required to take ALL belongings (including medication & medical equipment) with them upon discharge. 
+Belongings will NOT be stored for anyone who is no longer a client for longer than 72 hours after a client is discharged. Personal belongings that are left in the program facility after 72 hours from when a client discharges will be disposed of by program staff unless arrangements are made with the Case Manager or by contractual obligation. Any belongings that are left longer than the agreed upon period will be disposed of. 
+Clients are prohibited from stealing, gambling, trading, selling, or buying personal belongings or services including but not limited to cigarettes, food, clothing, and services such as errand running.
+Space:
+Clients will be assigned a room for the duration of their stay.
+Clients are responsible to keep their personal living spaces neat, clean, and sanitized according to requirements explained by the facility staff.  All personal items, including food, beverage, and medication must be properly stored. This will be ensured through weekly facility inspections.
+For safety reasons, candles, incense, hot plates, open flames, heating elements, and certain types of lights are prohibited. These must be turned over to facility staff for storage and will be returned upon discharge.
+Proper hygiene and grooming must be maintained at all times. For example, urinating is only permitted in the bathroom toilets/urinals.
+
+Alterations and Furniture
+Communicating and implementing guidelines about alterations and furniture in facility spaces is important to protect overall safety and ensure units are equitable and able to be ready quickly when a client transitions from the program. 
+
+Client shall make no alterations to the room or building or improvements to the general facility or construct any building without prior consent of the Program Director. For example: No permanent holes to hang objects, no additional locks or hooks on any door or window, no painting, marking, or drawing on the walls, no installing wires/ phones, do not pin curtains, etc. Only the furniture we provide may be used. Clients should not move furniture without prior consent of staff.
+
+Dress Code
+It is important that clients wear the appropriate amount of clothing and appropriate clothing when in common spaces. This promotes respect and dignity to all those in the community areas. 
+
+Shoes, slippers, and appropriate clothing must be worn at all times when outside of the unit. Clients will be asked to change clothes if LifeMoves staff deems any clothing to be inappropriate. 
+
+Items Not Allowed on Site/In Units 
+Prohibiting certain items helps increase the safety and security of everyone at a facility and reduces the risk of violence or accidents. These items vary from program to program based on the facility layout and buildings infrastructure. Examples may include prohibiting space heaters or cooking appliances to prevent fire hazards and damage to property; prohibiting open food inside of units to ensure sanitary spaces; prohibiting large furniture to avoid obstructing emergency evacuations; and prohibiting substances to support the recovery and recovery efforts of others in the facility.
+
+Due to fire hazards and safety reasons, the following items are Not Allowed in personal units:
+Floor/space heaters
+Heated blankets
+Candles
+Bleach
+Cooking/Frying Oil
+Cutting knives 
+Personal cooking appliances (including rice cooker, toaster, hot plate, etc)
+
+
+
+Community Resources
+The following are the Community Resources to ensure the safety, wellness, and positive experience of staff and clients within a program. Many programs provide community resources to our clients while they are engaged in the program. Often these vary based on the ability of the program. The information in black is the philosophy around the principle, the information in blue is from the documents provided to clients. Specific nuances may vary from facility to facility.
+
+
+Client Mail 
+Providing our clients with an accessible mailing address allows them to have access to services that require one, including healthcare, food support, housing assistance, employment assistance, and social services. An address provides increased chances of securing employment and creates a sense of stability and normalcy. It is a foundation for planning for the future and goal setting as well as a sense of belonging, dignity, and well-being. All our programs provide clients with access to an address including those that are not site based. 
+
+Clients may receive mail at the following address:
+____________________
+____________________
+Att: CLIENT NAME
+Clients may receive mail at this address while in the program.  After the client leaves the program, all mail will be returned to sender for two weeks, when a forwarding address is provided. 
+
+Telephones  
+Providing our clients with access to a telephone allows them to access to services that require communication including emergency assistance, employment opportunities, housing resources, social and support networks, healthcare communication, and legal resources. Access to a telephone provides increased chances of securing employment and creates a sense of stability and normalcy. Where the resource is available, our programs provide clients with access to a telephone including those that are not site based and all work to support a client obtaining a phone and individual phone number.
+
+Clients may check in with staff to use on-site phones. 
+
+Computers and office equipment 
+Providing our clients with access to computers and office equipment allows them to have access to services that require communication including emergency assistance, employment opportunities, housing resources, social and support networks, healthcare communication, and legal resources. Access to computers provides increased chances of securing employment and creates a sense of stability and normalcy. Where the resource is available, our programs provide clients with access to a computer and those that do not have it as a resource have information about where free computers may be accessed nearby (libraries, drop-in centers, community centers, etc.).
+
+This facility is able to provide limited access to Chromebooks and other office equipment to support housing and employment goals (e.g., job searches, housing research, interview preparation). LifeMoves staff will provide clients with additional instructions about using the Chromebooks.
+
+Linens and Laundry 
+Providing our clients with access to laundry services or fresh linens is essential to enhancing the dignity and self-esteem of our clients. Fresh laundry allows clients to maintain personal hygiene, prevents stigmatization, and can help prevent skin issues and infections. Additionally, it can increase the likelihood of a client gaining employment or making a good impression to a potential landlord. Access also creates a sense of stability and normalcy. Where the resource is available, our programs provide clients with access to laundry services or at the very least to clean linen services. Each program communicates and posts signs about their specific laundry and linen service information including hours and community norms.
+
+Upon arrival, clients will be given bed linens and towels. Clients are responsible to keep these linens clean and return the linens to staff upon discharge. Laundry facilities are provided on site. Laundry hours are from ______________. For the consideration of the community, the last load of laundry should be started no later than ______ and be removed by ______. Accommodations will be made for people working.
+Clients are encouraged to:  
+Be clean. A communal laundry room is a shared space, so it’s up to every client to keep it tidy. Wipe up any spilled detergent, clean out the lint trap, and throw away used dryer sheets. Also, remember that trash receptacles in laundry rooms are for things like dryer lint and sheets, maybe an empty detergent bottle, but not personal garbage. 
+Be courteous. There are a lot of people on similar schedules using a limited number of machines. Please try not to monopolize the machines. Washing a load of laundry typically takes 30 to 40 minutes and drying takes 45 minutes to an hour. Use a timer to ensure you remove your laundry at cycle end so that other clients don’t have to wait around.
+Be considerate. If you notice that a washer or dryer has completed its cycle and the client hasn’t returned to deal with it, try to be patient. After a period of time, please check with staff who may place clothing in hampers provided in the laundry room. 
+
+Garbage 
+Our staff and clients work together to make sure our facilities are safe, clean, and sanitized. Regular trash removal contributes to a respectful environment that supports clients’ overall well-being and dignity. All facility programs provide clients with access to trash services. Each program communicates and posts their specific trash service information including days/hours and location information.
+
+Common Spaces 
+Providing our clients with access to common spaces including kitchens, food pantries, playgrounds, quiet rooms, bathrooms, etc. are key to our model of self-sufficiency and stability. These spaces vary across programs and are determined by the site layout and structure. Each program posts signs with norms and staff ensure clients are collaborating to maintain clean, safe, and inviting common spaces for all to enjoy.
+
+Food and Kitchen: 
+Meals are provided as a service to all clients; however, clients may buy their own food to eat in the facility dining areas. Clients’ personal food or drink should be stored in individual units as common storage is limited. 
+Clients may request reasonable accommodations for dining exceptions to their Case Manager.
+
+Bicycles 
+Transportation is an important resource for our clients to have mobility and autonomy to access resources that are not located at LifeMoves facilities. A few of our shelter programs provide bicycles that can be checked out and utilized by clients, others can provide a bike to a client when they gain employment or housing, and others provide bicycle storage. Information about bicycle storage norms and check out procedures are posted near the bicycles at each site and includes information about free bike locks and helmets.
+
+•	Must be properly stored and repaired in designated locations not in individual units
+•	Management will provide bike locks when needed
+
+Cars/Parking 
+Transportation is an important resource for our clients to have mobility and autonomy to access resources that are not located at LifeMoves facilities. Programs where space permits may allow clients to check in their vehicles and park them in on-site parking lots. Additionally, our staff utilize Lyft rides or program vehicles to ensure clients have transportation to appointments and resources that support their case plan and goals.
+
+•	Please be mindful:  All clients with cars must submit vehicle information to the front desk upon 
+intake. Provide make, model, color, and license plate of the car(s). If this information is not 
+provided and a client parks their car in any of the lots, it could be towed at the owner’s expense. 
+•	Only certified placard holders can access handicap spaces. 
+•	Car repairs and car washing are not permitted on the property (this includes our parking lots).
+•	All transportation, like Lyft, Uber, Taxi Cabs, etc. are required to pick up clients on the street as 
+they cannot drive into the parking lot.
+
+Storage  
+Providing our clients with access to storage is crucial for their sense of security and ability to transition out of our programs. Designated storage areas exist at every facility and vary between locked individual spaces accessed by clients to large containers staff check clients' items in and out of. Storage is important to give our clients the dignity and respect they deserve and provide safe environments at our programs.
+
+LifeMoves does not store belongings for anyone other than current clients. Clients must take all personal belongings with them at the time of their discharge. 
+
+Donations 
+Donations play a critical role in providing our programs with the resources needed to fulfill the mission of assisting our clients. Donations such as clothing, food, and hygiene supplies contribute to meeting our client’s basic needs. While seasonal supplies like back-to-school essentials, holiday contributions, and specialized donations such as electronics or services enhance our clients' feelings of dignity and respect. Programs vary across the timing and quantity of donations they can receive, and all donations are provided to clients or other community partners who may have a greater need.
+
+Maintenance 
+Timely and ongoing maintenance is crucial to ensure the safety and functionality of facilities by preventing further damage, fixing the issue, complying with building regulations, maintaining health and air quality, and extending the lifespan of the buildings. LifeMoves relies on staff and clients working together to identify and communicate maintenance needs in a timely and detailed manner.
+
+Facility maintenance issues should be reported immediately to LifeMoves staff, who will contact the appropriate maintenance personnel or service provider.
+
+
+
+
+Glossary of Terms
+Coming Soon

@@ -1,0 +1,7 @@
+cat <<EOF > .gitignore
+venv/
+__pycache__/
+*.pyc
+.env
+upsert_chunks.log
+EOF

@@ -1,0 +1,9 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ household the option to have their information entered into HMIS anonymously. The provider should explain the process for housing referrals if entered anonymously (referral would be processed through the service provider entering the record into HMIS, who would then attempt to locate the client if a referral is made).
+2. If there is an existing HMIS System record for the household that includes the household’s identifying information (non-anonymous), offer the household the option to make this existing HMIS profile anonymous. The provider should immediately notify the Bitfocus Help Desk if they change a previously existing profile from non-anonymous to anonymous so that other providers serving the household are notified of this change.
+3. If the DV survivor is part of a household in HMIS that includes their abuser, offer the survivor the option to remove their identity from the existing household and create a new and separate anonymous client profile. The provider should notify the Bitfocus Help Desk by following the procedure in subsection (2) above.
+
+The location of Domestic Violence shelters/programs shall not be made public.
+Staff responsible for coordinated assessment shall receive training on protecting the safety and privacy of individuals who are fleeing, or attempting to flee violence.
+No CoC-funded program will deny or terminate assistance or evict a participant

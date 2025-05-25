@@ -1,0 +1,17 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ or disabling condition,
+- Ability to care for oneself or dependents,
+- Family composition, and/or
+- Exposure to imminent danger or risk of severe physical harm.
+
+The update would include an HMIS update and a new VI-SPDAT. Referrals to the community queue will become inactive after 390 days if there is no activity in HMIS for that client. While a community queue referral is inactive, no housing referrals will be made for that individual/household. Any of the following will re-activate a referral to the community queue:
+
+1. Completion of a new VI-SPDAT assessment in HMIS;
+2. Entry into a program in HMIS;
+3. A record in HMIS of services provided;
+4. Any other evidence in HMIS of contact with the individual/household.
+
+# VI. Community Queue
+
+Santa Clara County maintains a community queue in HMIS based on the VI-SPDAT scores and intake records in HMIS. HMIS also contains the inventory and eligibility criteria for each transitional and permanent housing provider, including permanent supportive housing and rapid rehousing programs. Each CoC project must establish specific eligibility criteria that the project will use to make enrollment determinations, and these criteria must be made available to the

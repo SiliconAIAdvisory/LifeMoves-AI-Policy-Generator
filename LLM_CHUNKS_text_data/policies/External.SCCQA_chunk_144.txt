@@ -1,0 +1,19 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ be served in the order they completed the assessment.
+
+# Other Housing and Services
+
+Services that are needed for an emergency crisis response, such as entry to emergency shelter, will not be prioritized through coordinated assessment. Instead, all persons who qualify for and require emergency services will receive those services on a first-come, first-serve basis, or through referrals from partner organizations and other providers.
+
+# VII. Housing Referrals
+
+# A. Matches to Housing Opportunities
+
+Matches are facilitated by OSH staff. When a housing program has a space available, the designated OSH representative will use the community queue in HMIS to identify the household or individual to be referred by:
+
+1. Filtering the community queue based on the type of housing intervention (transitional housing, permanent supportive housing or rapid rehousing) so that it pulls a list of individuals/households that have matched to that type of housing;
+2. Filtering the community queue based on the eligibility criteria of the housing program; and
+3. Prioritizing the community queue based on the prioritization methodology described above.
+
+The OSH representative will then make a referral in HMIS to the housing program. OSH staff will provide human judgment and discretion in making referrals based upon the prioritization and

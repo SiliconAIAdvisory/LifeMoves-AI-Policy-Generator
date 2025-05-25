@@ -1,0 +1,17 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ assessment.
+
+All staff administering assessments use culturally and linguistically competent practices in order to reduce barriers for underserved populations, including but not limited to immigrants and refugees, youth, individuals with disabilities, and LGBTQ individuals. The CoC shall further these practices by:
+
+1. Incorporating cultural and linguistic competency training and person-centered approaches into the required annual training protocols for participating projects and staff members;
+2. Using culturally and linguistically competent questions for all persons that reduce cultural or linguistic barriers to housing and services;
+3. Providing staff access to and training in the procedures for obtaining interpretation and accessibility services.
+
+# HMIS
+
+All staff and volunteers who enter data into HMIS or access data from HMIS must be trained in current HMIS policy and procedures.
+
+# C. Confidentiality and Releases of Information
+
+The VI-SPDAT is covered under the standard HMIS Release of Information (ROI). The ROI authorizes HMIS partner agencies to conduct the HMIS intake and the VI-SPDAT, enter the information in HMIS, and share the individual’s or household’s information with other participating organizations in order to facilitate connecting the household with housing and services. The ROI MUST be completed and uploaded into HMIS before any other information, including the VI-SP

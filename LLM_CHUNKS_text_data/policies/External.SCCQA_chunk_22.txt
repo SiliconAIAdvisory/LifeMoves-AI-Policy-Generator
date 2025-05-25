@@ -1,0 +1,13 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ these programs must record client-level data within a comparable internal database and be able to generate aggregate data for inclusion in reports.
+
+2. Victim service providers should ask incoming households experiencing homelessness whether they want their HMIS record to be deidentified in HMIS if such a record exists. If deidentification is desired, the victim service provider should have the survivor sign a letter stating the request. The victim service provider must then send the request to the Bitfocus Help Desk. The Help Desk can be reached via email at sccsupport@bitfocus.com, by phone at 408-596-5866 Ext. 2, or by going to scc.hmis.cc and opening a Support Ticket.
+
+3. If a non-victim service provider becomes aware that a household being served is fleeing or attempting to flee violence, the provider should:
+
+a. Immediately offer the household a warm referral to a victim service provider; and
+
+b. Check the HMIS System to see if there is an existing record for the household and proceed as follows:
+
+1. If there is no existing HMIS System record for the household, explain the Release of Information and offer the household the option to have their information entered into HMIS anonymously. The provider should explain the process for

@@ -1,0 +1,9 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ Clara County need different types of housing and services. This information will help us advocate for more resources to support people experiencing homelessness in Santa Clara County.
+
+# II. System Overview
+
+In Santa Clara County’s Coordinated Assessment system, all homeless individuals and families will complete a standard triage assessment survey that considers the household’s situation and identifies the best type of housing intervention to address their situation. The standard triage assessment survey that will be used in Santa Clara County is the Vulnerability Index-Service Prioritization Decision Assistance Tool 2.0 (VI-SPDAT) created by OrgCode Consulting and Community Solutions. The VI-SPDAT will be integrated into the standard HMIS intake for people experiencing homelessness and conducted at HMIS partner agencies, including shelters, service centers, transitional housing programs, and outreach programs: anywhere that people who are homeless first encounter our system of care.
+
+Permanently housing programs, including permanent supportive housing and rapid rehousing, and transitional housing programs will fill spaces in their programs from a community queue of eligible households generated from HMIS. The queue will be prioritized based on length of time homeless and VI-SPDAT scores to ensure that we house those with the greatest need first. This coordinated process will reduce the need

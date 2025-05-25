@@ -1,0 +1,25 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ments
+
+# A. The VI-SPDAT
+
+Santa Clara County uses the Vulnerability Index – Service Prioritization Decision Assistance Tool (VI-SPDAT) created by OrgCode Consulting, Inc. and Community Solutions as the standard triage.
+
+# Assessment Tool
+
+This assessment will be used for all homeless individuals and households in Santa Clara County. There are five versions of the VI-SPDAT in use for different populations:
+
+1. Individuals
+2. Families
+3. Transition Age Youth
+4. Justice Discharge
+5. Prevention
+
+The VI-SPDAT is to be completed by all individuals and families who are homeless under Category 1 (Literally Homeless) and Category 4 (Fleeing Domestic Violence) of HUD’s definition of homelessness. The VI-SPDAT will be conducted as part of the standard HMIS intake.
+
+The Prevention VI-SPDAT is used by the Homelessness Prevention System (HPS) pilot to assess eligibility for participation. Emergency Assistance Network agencies administer the Prevention VI-SPDAT to households at risk of losing their primary residence. All assessed households that fall within the eligible score range for the HPS pilot are offered HPS prevention services.
+
+# B. Training and Authorization of Users
+
+The

@@ -1,0 +1,13 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ choice of:
+
+1. An immediate warm handoff to a victim service provider for services, including safety planning and the VI-SPDAT; or
+2. Continuing to receive the VI-SPDAT from the non-victim service provider who will enter the household’s information into the community queue in HMIS anonymously; or
+3. Continuing to receive the VI-SPDAT from the non-victim service provider who will enter the household into the community queue in HMIS.
+
+If a DV survivor is already in the community queue because they have undergone a Family VI-SPDAT with their abuser, the survivor should be given the option to be re-assessed without the abuser. See subsections (ii)(1)-(3) above for how to proceed regarding the re-assessment.
+
+# C. Community Queue
+
+OSH will maintain a separate Community Queue outside of HMIS for survivors referred by domestic violence service providers. No client data will be entered into HMIS, in order to maintain confidentiality and safety for survivors and compliance with federal law. Anytime there is an opening in a transitional or permanent housing program, OSH staff will reference both the HMIS community queue and the community queue outside of HMIS to determine the most highly prioritized eligible

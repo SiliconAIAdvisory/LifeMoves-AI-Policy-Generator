@@ -1,0 +1,11 @@
+Santa Clara Countywide Quality Assurance Standards for Homeless Housing & Service Programs
+
+ standard intake will be completed on a paper form. This modified intake form will only include the minimum information necessary to determine eligibility and prioritization and it will specifically exclude personally identifying information, including: name, date of birth, social security number, and last permanent address. The service provider completing the form will include the name of the agency, the appropriate staff contact, and an alternate staff contact. All communication about the assessment and any possible placements will be conducted through the service provider to maintain client confidentiality. The domestic violence service provider will include an internally generated ID number that the agency can associate with the client, but that cannot otherwise be identified with the client. OSH staff will use this number to identify the client when communicating with the service provider.
+
+# 2. Non-Victim Service Providers
+
+Prior to initiating the VI-SPDAT, access points that are not victim service providers will screen all incoming households to determine whether they are DV survivors at risk of harm by using the “DV Screening Tool,” available on the Office of Supportive Housing website.
+
+If a household indicates that they are DV survivors at risk of harm, the assessor must offer them the choice of:
+
+1. An immediate warm handoff to a victim service provider for services, including safety
